@@ -1,0 +1,3 @@
+special-vendored-path/* linguist-vendored
+web_blast linguist-vendored=false
+
