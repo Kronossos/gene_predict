@@ -1,0 +1,149 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTX 2.8.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: KFEK9M36015
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           155,303,703 sequences; 56,894,383,939 total letters
+Query= 
+Length=670
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+XP_015159327.1  PREDICTED: uncharacterized protein LOC10705830...  46.2    0.011
+XP_015159834.1  PREDICTED: uncharacterized protein LOC10705852...  38.9    0.31 
+XP_015161321.1  PREDICTED: uncharacterized protein K02A2.6-lik...  42.0    0.49 
+OUM51777.1  hypothetical protein BVG19_g903 [[Candida] boidinii]   41.2    1.6  
+OWB67672.1  hypothetical protein B5S30_g3035 [[Candida] boidinii]  41.2    1.6  
+
+ALIGNMENTS
+>XP_015159327.1 PREDICTED: uncharacterized protein LOC107058300 [Solanum tuberosum]
+Length=166
+
+ Score = 46.2 bits (108),  Expect = 0.011, Method: Compositional matrix adjust.
+ Identities = 22/30 (73%), Positives = 24/30 (80%), Gaps = 0/30 (0%)
+ Frame = +1
+
+Query  127  ISLPQNQHILPFNECGEVKRRRAPQN*QFS  216
+            IS P++QHILPFNE GEVKR RAPQ   FS
+Sbjct  128  ISSPKDQHILPFNEYGEVKRARAPQIDNFS  157
+
+
+>XP_015159834.1 PREDICTED: uncharacterized protein LOC107058529 [Solanum tuberosum]
+Length=644
+
+ Score = 38.9 bits (89),  Expect(2) = 0.31, Method: Compositional matrix adjust.
+ Identities = 18/24 (75%), Positives = 19/24 (79%), Gaps = 0/24 (0%)
+ Frame = +1
+
+Query  124  SISLPQNQHILPFNECGEVKRRRA  195
+            SISLPQ  HI PFNE GEVKR R+
+Sbjct  613  SISLPQQHHIPPFNEQGEVKRTRS  636
+
+
+ Score = 23.5 bits (49),  Expect(2) = 0.31, Method: Compositional matrix adjust.
+ Identities = 9/13 (69%), Positives = 12/13 (92%), Gaps = 0/13 (0%)
+ Frame = +3
+
+Query  180  QKAKSSPKLTIFL  218
+            ++ +SSPKLTIFL
+Sbjct  632  KRTRSSPKLTIFL  644
+
+
+>XP_015161321.1 PREDICTED: uncharacterized protein K02A2.6-like [Solanum tuberosum]
+Length=254
+
+ Score = 42.0 bits (97),  Expect = 0.49, Method: Compositional matrix adjust.
+ Identities = 24/48 (50%), Positives = 30/48 (63%), Gaps = 2/48 (4%)
+ Frame = +1
+
+Query  61   QLKRSTQIRSFLN*QLFCGCRSISLPQNQHILPFNECGEVKRRRAPQN  204
+            QL R   IR+F   +     RSI LPQ++HILPFNE  EVKR ++  N
+Sbjct  209  QLYRQRMIRAFH--KKVRARRSIGLPQDRHILPFNEYVEVKRAKSSPN  254
+
+
+>OUM51777.1 hypothetical protein BVG19_g903 [[Candida] boidinii]
+ OWB48700.1 hypothetical protein B5S27_g235 [[Candida] boidinii]
+Length=1436
+
+ Score = 41.2 bits (95),  Expect = 1.6, Method: Composition-based stats.
+ Identities = 19/48 (40%), Positives = 28/48 (58%), Gaps = 2/48 (4%)
+ Frame = +2
+
+Query  248   YQRFWNMNNITSFNSQQCEVYN--ERTTMFRDRMNENLGERNFIVFHQ  385
+             + RFW +  I SF +Q+CEV+N  +R   F+ +  +NL E     FHQ
+Sbjct  1229  FWRFWEVGTIYSFVNQECEVFNNIKRLNTFQIKRTQNLREEVETCFHQ  1276
+
+
+>OWB67672.1 hypothetical protein B5S30_g3035 [[Candida] boidinii]
+ OWB83141.1 hypothetical protein B5S33_g1770 [[Candida] boidinii]
+Length=1444
+
+ Score = 41.2 bits (95),  Expect = 1.6, Method: Composition-based stats.
+ Identities = 19/48 (40%), Positives = 28/48 (58%), Gaps = 2/48 (4%)
+ Frame = +2
+
+Query  248   YQRFWNMNNITSFNSQQCEVYN--ERTTMFRDRMNENLGERNFIVFHQ  385
+             + RFW +  I SF +Q+CEV+N  +R   F+ +  +NL E     FHQ
+Sbjct  1237  FWRFWEVGTIYSFVNQECEVFNNIKRLNTFQIKRTQNLREEVETCFHQ  1284
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jun 7, 2018  1:17 PM
+  Number of letters in database: 56,894,383,939
+  Number of sequences in database:  155,303,703
+
+Lambda      K        H
+   0.318    0.134    0.401 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 155303703
+Number of Hits to DB: 3396912290
+Number of extensions: 70369438
+Number of successful extensions: 155316
+Number of sequences better than 10: 0
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 155284
+Number of HSP's successfully gapped: 0
+Length of query: 670
+Length of database: 56894383939
+Length adjustment: 150
+Effective length of query: 520
+Effective length of database: 33598828489
+Effective search space: 2452714479697
+Effective search space used: 2452714479697
+T: 12
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 87 (38.1 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+

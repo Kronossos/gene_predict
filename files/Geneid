@@ -1,0 +1,68 @@
+ 	 
+geneid predictions on sequence submitted from 79.184.122.134.ipv4.supernova.orange.pl are:
+
+
+## gff-version 2
+## date Sat May 19 12:41:15 2018
+## source-version: geneid v 1.2 -- geneid@imim.es
+# Sequence RH059F05 - Length = 72275 bps
+# Optimal Gene Structure. 9 genes. Score = 138.74 
+# Gene 1 (Forward). 1 exons. 29 aa. Score = 1.39 
+RH059F05	geneid_v1.2	Terminal	1666	1750	 1.39	+	1	RH059F05_1
+# Gene 2 (Reverse). 3 exons. 200 aa. Score = 4.12 
+RH059F05	geneid_v1.2	Terminal	3293	3374	 1.02	-	1	RH059F05_2
+RH059F05	geneid_v1.2	Internal	5279	5350	 2.30	-	1	RH059F05_2
+RH059F05	geneid_v1.2	First	12148	12593	 0.80	-	0	RH059F05_2
+# Gene 3 (Forward). 2 exons. 39 aa. Score = 0.11 
+RH059F05	geneid_v1.2	First	13381	13449	 1.62	+	0	RH059F05_3
+RH059F05	geneid_v1.2	Terminal	14220	14267	-1.52	+	0	RH059F05_3
+# Gene 4 (Reverse). 11 exons. 1301 aa. Score = 64.50 
+RH059F05	geneid_v1.2	Terminal	16320	17324	23.75	-	0	RH059F05_4
+RH059F05	geneid_v1.2	Internal	20008	20513	 9.42	-	2	RH059F05_4
+RH059F05	geneid_v1.2	Internal	20568	20914	 3.12	-	1	RH059F05_4
+RH059F05	geneid_v1.2	Internal	21344	21912	12.68	-	0	RH059F05_4
+RH059F05	geneid_v1.2	Internal	23099	23170	 0.11	-	0	RH059F05_4
+RH059F05	geneid_v1.2	Internal	26038	26402	 3.68	-	2	RH059F05_4
+RH059F05	geneid_v1.2	Internal	26496	26691	 4.95	-	0	RH059F05_4
+RH059F05	geneid_v1.2	Internal	26815	26846	-1.98	-	2	RH059F05_4
+RH059F05	geneid_v1.2	Internal	26952	27705	11.07	-	0	RH059F05_4
+RH059F05	geneid_v1.2	Internal	27854	27876	 0.52	-	2	RH059F05_4
+RH059F05	geneid_v1.2	First	29177	29210	-2.80	-	0	RH059F05_4
+# Gene 5 (Forward). 6 exons. 229 aa. Score = 8.75 
+RH059F05	geneid_v1.2	First	30193	30301	 0.77	+	0	RH059F05_5
+RH059F05	geneid_v1.2	Internal	30379	30464	 0.47	+	2	RH059F05_5
+RH059F05	geneid_v1.2	Internal	30749	30913	 4.81	+	0	RH059F05_5
+RH059F05	geneid_v1.2	Internal	31053	31175	 2.37	+	0	RH059F05_5
+RH059F05	geneid_v1.2	Internal	32790	32811	 0.46	+	0	RH059F05_5
+RH059F05	geneid_v1.2	Terminal	35853	36034	-0.13	+	2	RH059F05_5
+# Gene 6 (Forward). 3 exons. 87 aa. Score = 3.63 
+RH059F05	geneid_v1.2	First	37871	37908	 0.81	+	0	RH059F05_6
+RH059F05	geneid_v1.2	Internal	43903	43937	 0.91	+	1	RH059F05_6
+RH059F05	geneid_v1.2	Terminal	45715	45902	 1.91	+	2	RH059F05_6
+# Gene 7 (Reverse). 5 exons. 151 aa. Score = 4.34 
+RH059F05	geneid_v1.2	Terminal	48265	48289	-0.56	-	1	RH059F05_7
+RH059F05	geneid_v1.2	Internal	48728	49017	 2.03	-	0	RH059F05_7
+RH059F05	geneid_v1.2	Internal	49383	49444	 2.32	-	2	RH059F05_7
+RH059F05	geneid_v1.2	Internal	49580	49652	 2.40	-	0	RH059F05_7
+RH059F05	geneid_v1.2	First	50989	50991	-1.86	-	0	RH059F05_7
+# Gene 8 (Forward). 11 exons. 505 aa. Score = 28.49 
+RH059F05	geneid_v1.2	First	52306	52308	-1.89	+	0	RH059F05_8
+RH059F05	geneid_v1.2	Internal	52808	52884	 1.72	+	0	RH059F05_8
+RH059F05	geneid_v1.2	Internal	60725	60788	 2.77	+	1	RH059F05_8
+RH059F05	geneid_v1.2	Internal	64717	64826	 0.57	+	0	RH059F05_8
+RH059F05	geneid_v1.2	Internal	65797	66067	 2.72	+	1	RH059F05_8
+RH059F05	geneid_v1.2	Internal	66156	66258	 3.28	+	0	RH059F05_8
+RH059F05	geneid_v1.2	Internal	66366	66711	 7.45	+	2	RH059F05_8
+RH059F05	geneid_v1.2	Internal	66787	66827	 0.81	+	1	RH059F05_8
+RH059F05	geneid_v1.2	Internal	66945	67152	 6.98	+	2	RH059F05_8
+RH059F05	geneid_v1.2	Internal	67397	67475	 0.20	+	1	RH059F05_8
+RH059F05	geneid_v1.2	Terminal	67551	67763	 3.86	+	0	RH059F05_8
+# Gene 9 (Forward). 7 exons. 455 aa. Score = 23.41 
+RH059F05	geneid_v1.2	First	68778	68782	-0.74	+	0	RH059F05_9
+RH059F05	geneid_v1.2	Internal	69808	70078	 5.62	+	1	RH059F05_9
+RH059F05	geneid_v1.2	Internal	70164	70266	 4.25	+	0	RH059F05_9
+RH059F05	geneid_v1.2	Internal	70361	70706	 5.03	+	2	RH059F05_9
+RH059F05	geneid_v1.2	Internal	70879	71244	 7.73	+	1	RH059F05_9
+RH059F05	geneid_v1.2	Internal	71326	71404	-0.29	+	1	RH059F05_9
+RH059F05	geneid_v1.2	Terminal	71502	71696	 1.82	+	0	RH059F05_9
+

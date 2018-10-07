@@ -1,0 +1,4471 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+BLASTX 2.8.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: KFEC31CY015
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           155,303,703 sequences; 56,894,383,939 total letters
+Query= 
+Length=2918
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+XP_015081002.1  PREDICTED: L-ascorbate oxidase homolog [Solanu...  223     4e-121
+XP_004243477.1  PREDICTED: L-ascorbate oxidase homolog [Solanu...  223     5e-121
+XP_018625112.1  PREDICTED: L-ascorbate oxidase homolog isoform...  219     5e-119
+XP_016469403.1  PREDICTED: L-ascorbate oxidase homolog [Nicoti...  219     5e-119
+XP_009794442.1  PREDICTED: L-ascorbate oxidase homolog [Nicoti...  210     1e-115
+PSS16145.1  L-ascorbate oxidase [Actinidia chinensis var. chin...  205     4e-110
+XP_012089872.1  L-ascorbate oxidase homolog [Jatropha curcas]      210     7e-110
+XP_002524823.1  L-ascorbate oxidase homolog [Ricinus communis]     207     2e-109
+CDP10787.1  unnamed protein product [Coffea canephora]             198     2e-109
+XP_019194295.1  PREDICTED: L-ascorbate oxidase homolog [Ipomoe...  198     3e-109
+ASJ80918.1  L-ascorbate oxidase [Camellia sinensis]                205     8e-109
+XP_018810754.1  PREDICTED: L-ascorbate oxidase homolog [Juglan...  199     2e-108
+XP_023887109.1  L-ascorbate oxidase homolog [Quercus suber]        207     2e-108
+XP_021822909.1  L-ascorbate oxidase homolog [Prunus avium]         201     8e-108
+XP_021687447.1  L-ascorbate oxidase homolog [Hevea brasiliensis]   202     2e-107
+GAV71914.1  Cu-oxidase domain-containing protein/Cu-oxidase_2 ...  203     2e-107
+XP_021629436.1  L-ascorbate oxidase homolog [Manihot esculenta]    203     4e-107
+XP_016580624.1  PREDICTED: L-ascorbate oxidase homolog [Capsic...  291     7e-107
+XP_002301616.1  L-ascorbate oxidase homolog [Populus trichocarpa]  192     8e-107
+XP_007215641.1  L-ascorbate oxidase homolog [Prunus persica]       201     1e-106
+XP_022850328.1  L-ascorbate oxidase homolog [Olea europaea var...  199     1e-106
+XP_019249658.1  PREDICTED: L-ascorbate oxidase homolog [Nicoti...  290     2e-106
+OAY35115.1  hypothetical protein MANES_12G073700 [Manihot escu...  204     5e-106
+XP_008229964.1  PREDICTED: L-ascorbate oxidase homolog [Prunus...  200     9e-106
+XP_011047251.1  PREDICTED: L-ascorbate oxidase homolog isoform...  193     1e-105
+XP_006447580.1  L-ascorbate oxidase homolog isoform X1 [Citrus...  200     2e-105
+XP_017252589.1  PREDICTED: L-ascorbate oxidase homolog [Daucus...  202     3e-105
+PON62222.1  Copper-resistance protein [Trema orientalis]           196     4e-105
+XP_010046372.1  PREDICTED: L-ascorbate oxidase homolog [Eucaly...  199     5e-105
+XP_002320467.2  L-ascorbate oxidase homolog [Populus trichocarpa]  197     9e-105
+XP_022136099.1  L-ascorbate oxidase homolog [Momordica charantia]  203     1e-104
+CDP19581.1  unnamed protein product [Coffea canephora]             205     1e-104
+EOY02215.1  SKU5 similar 5 isoform 1 [Theobroma cacao]             197     4e-104
+XP_004287955.1  PREDICTED: L-ascorbate oxidase homolog [Fragar...  195     4e-104
+XP_017972091.1  PREDICTED: L-ascorbate oxidase homolog [Theobr...  197     4e-104
+XP_022988735.1  L-ascorbate oxidase homolog [Cucurbita maxima]     202     4e-104
+XP_021300407.1  L-ascorbate oxidase homolog [Herrania umbratica]   197     5e-104
+EOY02216.1  SKU5 similar 5 isoform 2 [Theobroma cacao]             197     9e-104
+XP_022930723.1  L-ascorbate oxidase homolog [Cucurbita moschata]   202     1e-103
+PON68699.1  Copper-resistance protein [Parasponia andersonii]      193     1e-103
+XP_008455444.1  PREDICTED: L-ascorbate oxidase homolog [Cucumi...  202     2e-103
+XP_023531945.1  L-ascorbate oxidase homolog [Cucurbita pepo su...  200     4e-103
+XP_004144498.1  PREDICTED: L-ascorbate oxidase homolog [Cucumi...  201     6e-103
+XP_023757115.1  L-ascorbate oxidase homolog [Lactuca sativa]       187     5e-102
+XP_019448929.1  PREDICTED: L-ascorbate oxidase homolog [Lupinu...  193     6e-101
+XP_020964402.1  L-ascorbate oxidase homolog [Arachis ipaensis]     181     1e-100
+XP_015936113.1  L-ascorbate oxidase homolog [Arachis duranensis]   181     1e-100
+XP_003540295.1  PREDICTED: L-ascorbate oxidase homolog [Glycin...  181     2e-100
+KHN44868.1  L-ascorbate oxidase like [Glycine soja]                181     2e-100
+XP_002269614.1  PREDICTED: L-ascorbate oxidase homolog [Vitis ...  202     4e-100
+XP_024033046.1  L-ascorbate oxidase homolog [Morus notabilis]      203     4e-100
+XP_022777034.1  L-ascorbate oxidase homolog isoform X1 [Durio ...  190     6e-100
+XP_023770476.1  L-ascorbate oxidase homolog [Lactuca sativa]       196     9e-100
+XP_010244491.1  PREDICTED: L-ascorbate oxidase homolog [Nelumb...  198     1e-99 
+XP_022036325.1  L-ascorbate oxidase homolog [Helianthus annuus]    199     2e-99 
+XP_022777035.1  L-ascorbate oxidase homolog isoform X2 [Durio ...  189     5e-99 
+XP_009794440.1  PREDICTED: L-ascorbate oxidase homolog isoform...  204     1e-98 
+XP_024185129.1  L-ascorbate oxidase homolog [Rosa chinensis]       197     3e-98 
+PWA89413.1  cupredoxin [Artemisia annua]                           196     3e-98 
+PHT29689.1  L-ascorbate oxidase -like protein [Capsicum baccatum]  202     7e-98 
+XP_009597920.1  PREDICTED: L-ascorbate oxidase homolog [Nicoti...  200     8e-98 
+XP_016469404.1  PREDICTED: L-ascorbate oxidase homolog [Nicoti...  200     1e-97 
+XP_015877763.1  L-ascorbate oxidase homolog [Ziziphus jujuba]      175     2e-97 
+OMP02267.1  Multicopper oxidase, type 1 [Corchorus olitorius]      186     3e-97 
+PHT99430.1  L-ascorbate oxidase -like protein [Capsicum chinense]  199     3e-97 
+XP_016580622.1  PREDICTED: L-ascorbate oxidase homolog [Capsic...  199     4e-97 
+OVA09457.1  Multicopper oxidase [Macleaya cordata]                 197     4e-97 
+XP_010676489.1  PREDICTED: L-ascorbate oxidase homolog [Beta v...  178     7e-97 
+XP_010278638.1  PREDICTED: L-ascorbate oxidase homolog [Nelumb...  196     8e-97 
+XP_018812045.1  PREDICTED: L-ascorbate oxidase homolog [Juglan...  191     9e-97 
+OWM79812.1  hypothetical protein CDL15_Pgr023224 [Punica grana...  173     2e-96 
+XP_008362259.1  PREDICTED: L-ascorbate oxidase homolog [Malus ...  197     2e-96 
+XP_024960835.1  L-ascorbate oxidase homolog [Cynara cardunculu...  191     2e-96 
+PPD90932.1  hypothetical protein GOBAR_DD12135 [Gossypium barb...  195     3e-96 
+EEF33963.1  multicopper oxidase, putative [Ricinus communis]       186     3e-96 
+GAV90226.1  Cu-oxidase domain-containing protein/Cu-oxidase_2 ...  189     3e-96 
+XP_012438687.1  PREDICTED: L-ascorbate oxidase homolog [Gossyp...  196     4e-96 
+XP_015580389.1  L-ascorbate oxidase homolog [Ricinus communis]     186     6e-96 
+POF20320.1  l-ascorbate oxidase like [Quercus suber]               181     8e-96 
+XP_020541101.1  L-ascorbate oxidase homolog isoform X1 [Jatrop...  179     1e-95 
+XP_016736316.1  PREDICTED: L-ascorbate oxidase homolog [Gossyp...  193     2e-95 
+EPS74059.1  hypothetical protein M569_00695 [Genlisea aurea]       195     2e-95 
+KZM96521.1  hypothetical protein DCAR_019763 [Daucus carota su...  261     2e-95 
+PON60602.1  Copper-resistance protein [Parasponia andersonii]      188     3e-95 
+XP_009347125.2  PREDICTED: L-ascorbate oxidase homolog [Pyrus ...  194     3e-95 
+XP_015887754.1  L-ascorbate oxidase homolog [Ziziphus jujuba]      187     4e-95 
+XP_012091324.1  L-ascorbate oxidase homolog isoform X2 [Jatrop...  178     4e-95 
+XP_009353293.1  PREDICTED: L-ascorbate oxidase homolog [Pyrus ...  192     5e-95 
+XP_002510630.1  L-ascorbate oxidase homolog [Ricinus communis]     189     7e-95 
+XP_023906871.1  L-ascorbate oxidase homolog [Quercus suber]        180     8e-95 
+XP_023903193.1  L-ascorbate oxidase homolog [Quercus suber]        179     8e-95 
+XP_006855939.1  L-ascorbate oxidase homolog [Amborella trichop...  199     1e-94 
+XP_021660974.1  L-ascorbate oxidase homolog [Hevea brasiliensis]   187     1e-94 
+PKI41959.1  hypothetical protein CRG98_037642 [Punica granatum]    173     1e-94 
+XP_018838329.1  PREDICTED: L-ascorbate oxidase homolog [Juglan...  192     2e-94 
+XP_018823898.1  PREDICTED: L-ascorbate oxidase homolog [Juglan...  182     2e-94 
+PPR83909.1  hypothetical protein GOBAR_AA36802 [Gossypium barb...  194     3e-94 
+XP_016726818.1  PREDICTED: L-ascorbate oxidase homolog [Gossyp...  194     3e-94 
+XP_021893795.1  L-ascorbate oxidase homolog [Carica papaya]        253     3e-94 
+XP_017635353.1  PREDICTED: L-ascorbate oxidase homolog [Gossyp...  193     4e-94 
+
+ALIGNMENTS
+>XP_015081002.1 PREDICTED: L-ascorbate oxidase homolog [Solanum pennellii]
+Length=537
+
+ Score = 223 bits (567),  Expect(3) = 4e-121, Method: Compositional matrix adjust.
+ Identities = 109/116 (94%), Positives = 111/116 (96%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISN+GLTTSVNFRIQGHKM VVEVEGTHTVQN YDSLDIHLGQSYSVLLTADQ
+Sbjct  212   GKTYRFRISNIGLTTSVNFRIQGHKMTVVEVEGTHTVQNAYDSLDIHLGQSYSVLLTADQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVLTATSTLRYSNS GSV+GPPPGGPTIEIDWSFNQARSLR
+Sbjct  272   PAQDYYIVVSTRFTSQVLTATSTLRYSNSAGSVSGPPPGGPTIEIDWSFNQARSLR  327
+
+
+ Score = 195 bits (496),  Expect(3) = 4e-121, Method: Compositional matrix adjust.
+ Identities = 89/90 (99%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGG GSINI
+Sbjct  88    NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGIGSINI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAGEFSILTGDWFKQNHS
+Sbjct  148   ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  177
+
+
+ Score = 70.5 bits (171),  Expect(3) = 4e-121, Method: Compositional matrix adjust.
+ Identities = 33/35 (94%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGGHDLPFPDGLLING GSNGYTFTVDQG
+Sbjct  178   DLKAILDGGHDLPFPDGLLINGHGSNGYTFTVDQG  212
+
+
+ Score = 293 bits (751),  Expect(2) = 1e-107, Method: Compositional matrix adjust.
+ Identities = 147/177 (83%), Positives = 150/177 (85%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSF+PADTPLKLA
+Sbjct  327   RRNLTASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFIPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVFTLGSIPDSPTGSGAYLQTSVM+ADFRAYTEVIFENLEDSVQSYHIDGHHFF
+Sbjct  387   DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMSADFRAYTEVIFENLEDSVQSYHIDGHHFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           MGRGEWTPASRLTYNLRDTISRSTVQV
+Sbjct  447   VVG---------------------------MGRGEWTPASRLTYNLRDTISRSTVQV  476
+
+
+ Score = 129 bits (323),  Expect(2) = 1e-107, Method: Compositional matrix adjust.
+ Identities = 59/62 (95%), Positives = 60/62 (97%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDE+PIPSN L CG
+Sbjct  476   VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDESPIPSNVLHCG  535
+
+Query  2904  RA  2909
+             RA
+Sbjct  536   RA  537
+
+
+ Score = 108 bits (271),  Expect = 7e-21, Method: Compositional matrix adjust.
+ Identities = 46/50 (92%), Positives = 47/50 (94%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M K W +WLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  1    MVKEWSTWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  50
+
+
+ Score = 84.0 bits (206),  Expect = 8e-13, Method: Compositional matrix adjust.
+ Identities = 37/40 (93%), Positives = 38/40 (95%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGPPIQCVTNDNLIINVFNNLD+ FLISW
+Sbjct  48   KQQGILINGQFPGPPIQCVTNDNLIINVFNNLDEPFLISW  87
+
+
+>XP_004243477.1 PREDICTED: L-ascorbate oxidase homolog [Solanum lycopersicum]
+Length=537
+
+ Score = 223 bits (568),  Expect(3) = 5e-121, Method: Compositional matrix adjust.
+ Identities = 110/116 (95%), Positives = 111/116 (96%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTSVNFRIQGHKM VVEVEGTHTVQN YDSLDIHLGQSYSVLLTADQ
+Sbjct  212   GKTYRFRISNVGLTTSVNFRIQGHKMTVVEVEGTHTVQNAYDSLDIHLGQSYSVLLTADQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVLTATSTLRYSNS GSV+GPPPGGPTIEIDWSFNQARSLR
+Sbjct  272   PAQDYYIVVSTRFTSQVLTATSTLRYSNSAGSVSGPPPGGPTIEIDWSFNQARSLR  327
+
+
+ Score = 194 bits (494),  Expect(3) = 5e-121, Method: Compositional matrix adjust.
+ Identities = 89/90 (99%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI
+Sbjct  88    NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFP PAGEFSILTGDWFKQNHS
+Sbjct  148   ASRSVIPVPFPSPAGEFSILTGDWFKQNHS  177
+
+
+ Score = 70.9 bits (172),  Expect(3) = 5e-121, Method: Compositional matrix adjust.
+ Identities = 33/35 (94%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGGHDLPFPDGLLING GSNGYTFTVDQG
+Sbjct  178   DLKAILDGGHDLPFPDGLLINGHGSNGYTFTVDQG  212
+
+
+ Score = 293 bits (749),  Expect(2) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 146/177 (82%), Positives = 150/177 (85%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSF+PADTPLKLA
+Sbjct  327   RRNLTASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFIPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVFTLGSIPDSPTGSGAYLQTSVM+ADFRAYTEV+FENLEDSVQSYHIDGHHFF
+Sbjct  387   DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMSADFRAYTEVVFENLEDSVQSYHIDGHHFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           MGRGEWTPASRLTYNLRDTISRSTVQV
+Sbjct  447   VVG---------------------------MGRGEWTPASRLTYNLRDTISRSTVQV  476
+
+
+ Score = 128 bits (322),  Expect(2) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 58/62 (94%), Positives = 60/62 (97%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDE+P+PSN L CG
+Sbjct  476   VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDESPVPSNVLHCG  535
+
+Query  2904  RA  2909
+             RA
+Sbjct  536   RA  537
+
+
+ Score = 107 bits (267),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 45/50 (90%), Positives = 46/50 (92%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M K W +WLPLMAMVMMFLHVNFIHGEDPYRFY WNVTYGDIYPLGVKQQ
+Sbjct  1    MVKEWSTWLPLMAMVMMFLHVNFIHGEDPYRFYAWNVTYGDIYPLGVKQQ  50
+
+
+ Score = 84.0 bits (206),  Expect = 8e-13, Method: Compositional matrix adjust.
+ Identities = 37/40 (93%), Positives = 38/40 (95%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGPPIQCVTNDNLIINVFNNLD+ FLISW
+Sbjct  48   KQQGILINGQFPGPPIQCVTNDNLIINVFNNLDEPFLISW  87
+
+
+>XP_018625112.1 PREDICTED: L-ascorbate oxidase homolog isoform X1 [Nicotiana 
+tomentosiformis]
+Length=544
+
+ Score = 219 bits (557),  Expect(3) = 5e-119, Method: Compositional matrix adjust.
+ Identities = 106/116 (91%), Positives = 110/116 (95%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLT DQ
+Sbjct  212   GKTYRFRISNVGLTTSINFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTTDQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PA+DYYI VSTRFTSQVLTATSTLRYSNS GSV+GPPPGGPT E+DWS NQARSLR
+Sbjct  272   PAKDYYIVVSTRFTSQVLTATSTLRYSNSAGSVSGPPPGGPTTEVDWSLNQARSLR  327
+
+
+ Score = 193 bits (491),  Expect(3) = 5e-119, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGVYGTNCPIPPG NFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI
+Sbjct  88    NGVEQRRNSWQDGVYGTNCPIPPGNNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAGEFSIL+GDWFKQNH+
+Sbjct  148   ASRSVIPVPFPPPAGEFSILSGDWFKQNHN  177
+
+
+ Score = 69.3 bits (168),  Expect(3) = 5e-119, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD GHDLPFPDGLLI+GRGSNGYTFTVDQG
+Sbjct  178   DLKAILDSGHDLPFPDGLLISGRGSNGYTFTVDQG  212
+
+
+ Score = 287 bits (735),  Expect(2) = 9e-106, Method: Compositional matrix adjust.
+ Identities = 145/177 (82%), Positives = 147/177 (83%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTT TIRLANSAPIINGKQRYAINSVSFVPADTPLKLA
+Sbjct  327   RRNLSASGPRPNPQGSYHYGLINTTHTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVFTLGSIPDSPTG GAYLQTSVMAADFRAYTEVIFENLED+VQSYHIDGHHFF
+Sbjct  387   DHFNIPGVFTLGSIPDSPTGGGAYLQTSVMAADFRAYTEVIFENLEDTVQSYHIDGHHFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           MG GEWTPASRLTYNLRDTISRSTVQ+
+Sbjct  447   VVG---------------------------MGGGEWTPASRLTYNLRDTISRSTVQL  476
+
+
+ Score = 128 bits (322),  Expect(2) = 9e-106, Method: Compositional matrix adjust.
+ Identities = 58/64 (91%), Positives = 62/64 (97%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             +YPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSP NSWRDE PIPS+AL+CG
+Sbjct  476   LYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPANSWRDEYPIPSDALLCG  535
+
+Query  2904  RASS  2915
+             RAS+
+Sbjct  536   RAST  539
+
+
+ Score = 97.8 bits (242),  Expect = 3e-17, Method: Compositional matrix adjust.
+ Identities = 40/50 (80%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M K W SWLPLMA+V+MF+H N I GEDPYRFYTWNVTYGDIYPLG+KQQ
+Sbjct  1    MGKWWSSWLPLMAVVLMFVHTNLISGEDPYRFYTWNVTYGDIYPLGLKQQ  50
+
+
+ Score = 82.4 bits (202),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 36/40 (90%), Positives = 38/40 (95%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGPPI+CVTNDNLIINVFNNLD+ FLISW
+Sbjct  48   KQQGILINGQFPGPPIECVTNDNLIINVFNNLDEPFLISW  87
+
+
+>XP_016469403.1 PREDICTED: L-ascorbate oxidase homolog [Nicotiana tabacum]
+ XP_018625113.1 PREDICTED: L-ascorbate oxidase homolog isoform X2 [Nicotiana 
+tomentosiformis]
+Length=544
+
+ Score = 219 bits (557),  Expect(3) = 5e-119, Method: Compositional matrix adjust.
+ Identities = 106/116 (91%), Positives = 110/116 (95%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLT DQ
+Sbjct  212   GKTYRFRISNVGLTTSINFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTTDQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PA+DYYI VSTRFTSQVLTATSTLRYSNS GSV+GPPPGGPT E+DWS NQARSLR
+Sbjct  272   PAKDYYIVVSTRFTSQVLTATSTLRYSNSAGSVSGPPPGGPTTEVDWSLNQARSLR  327
+
+
+ Score = 193 bits (491),  Expect(3) = 5e-119, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGVYGTNCPIPPG NFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI
+Sbjct  88    NGVEQRRNSWQDGVYGTNCPIPPGNNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAGEFSIL+GDWFKQNH+
+Sbjct  148   ASRSVIPVPFPPPAGEFSILSGDWFKQNHN  177
+
+
+ Score = 69.3 bits (168),  Expect(3) = 5e-119, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD GHDLPFPDGLLI+GRGSNGYTFTVDQG
+Sbjct  178   DLKAILDSGHDLPFPDGLLISGRGSNGYTFTVDQG  212
+
+
+ Score = 288 bits (738),  Expect(2) = 2e-106, Method: Compositional matrix adjust.
+ Identities = 146/177 (82%), Positives = 147/177 (83%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTT TIRLANSAPIINGKQRYAINSVSFVPADTPLKLA
+Sbjct  327   RRNLSASGPRPNPQGSYHYGLINTTHTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVFTLGSIPDSPTG GAYLQTSVMAADFRAYTEVIFENLED+VQSYHIDGHHFF
+Sbjct  387   DHFNIPGVFTLGSIPDSPTGGGAYLQTSVMAADFRAYTEVIFENLEDTVQSYHIDGHHFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           MG GEWTPASRLTYNLRDTISRSTVQV
+Sbjct  447   VVG---------------------------MGGGEWTPASRLTYNLRDTISRSTVQV  476
+
+
+ Score = 129 bits (325),  Expect(2) = 2e-106, Method: Compositional matrix adjust.
+ Identities = 59/64 (92%), Positives = 62/64 (97%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSP NSWRDE PIPS+AL+CG
+Sbjct  476   VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPANSWRDEYPIPSDALLCG  535
+
+Query  2904  RASS  2915
+             RAS+
+Sbjct  536   RAST  539
+
+
+ Score = 97.8 bits (242),  Expect = 3e-17, Method: Compositional matrix adjust.
+ Identities = 40/50 (80%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M K W SWLPLMA+V+MF+H N I GEDPYRFYTWNVTYGDIYPLG+KQQ
+Sbjct  1    MGKWWSSWLPLMAVVLMFVHTNLISGEDPYRFYTWNVTYGDIYPLGLKQQ  50
+
+
+ Score = 82.4 bits (202),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 36/40 (90%), Positives = 38/40 (95%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGPPI+CVTNDNLIINVFNNLD+ FLISW
+Sbjct  48   KQQGILINGQFPGPPIECVTNDNLIINVFNNLDEPFLISW  87
+
+
+>XP_009794442.1 PREDICTED: L-ascorbate oxidase homolog [Nicotiana sylvestris]
+ XP_016495408.1 PREDICTED: L-ascorbate oxidase homolog [Nicotiana tabacum]
+Length=541
+
+ Score = 210 bits (534),  Expect(3) = 1e-115, Method: Compositional matrix adjust.
+ Identities = 103/116 (89%), Positives = 107/116 (92%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQS+SVLLTADQ
+Sbjct  209   GKTYRFRISNVGLTTSINFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSFSVLLTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PA+DYYI VSTRFTSQVLTATSTL Y NS GSV+G PP GPT EIDWS NQARSLR
+Sbjct  269   PAKDYYIVVSTRFTSQVLTATSTLHYGNSAGSVSGLPPSGPTTEIDWSLNQARSLR  324
+
+
+ Score = 192 bits (488),  Expect(3) = 1e-115, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGVYGTNCPIPPG NFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI
+Sbjct  85    NGVEQRRNSWQDGVYGTNCPIPPGNNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             AS SVIPVPFPPPAGEFSILTGDWFKQNH+
+Sbjct  145   ASSSVIPVPFPPPAGEFSILTGDWFKQNHN  174
+
+
+ Score = 68.2 bits (165),  Expect(3) = 1e-115, Method: Compositional matrix adjust.
+ Identities = 31/35 (89%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD GHDLPFPDGLLING GSNGYTFT+DQG
+Sbjct  175   DLKAILDSGHDLPFPDGLLINGHGSNGYTFTIDQG  209
+
+
+ Score = 286 bits (733),  Expect(2) = 1e-105, Method: Compositional matrix adjust.
+ Identities = 145/177 (82%), Positives = 147/177 (83%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA
+Sbjct  324   RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVF+LGSIPDSPTG GAYLQTSVMAA+FRAY EVIFENLEDSVQSYHIDGHHFF
+Sbjct  384   DHFNIPGVFSLGSIPDSPTGGGAYLQTSVMAAEFRAYIEVIFENLEDSVQSYHIDGHHFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           MG GEWTPASRLTYNLRDTISRSTVQV
+Sbjct  444   VVG---------------------------MGGGEWTPASRLTYNLRDTISRSTVQV  473
+
+
+ Score = 128 bits (322),  Expect(2) = 1e-105, Method: Compositional matrix adjust.
+ Identities = 58/64 (91%), Positives = 61/64 (95%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALYMPLDNVGMW+IRSQNW RQYLGQQFYLRVYSP NSWRDE PIPSNAL+CG
+Sbjct  473   VYPKSWTALYMPLDNVGMWDIRSQNWVRQYLGQQFYLRVYSPANSWRDEYPIPSNALLCG  532
+
+Query  2904  RASS  2915
+             RAS+
+Sbjct  533   RAST  536
+
+
+ Score = 82.4 bits (202),  Expect = 2e-12, Method: Compositional matrix adjust.
+ Identities = 33/45 (73%), Positives = 39/45 (87%), Gaps = 0/45 (0%)
+ Frame = +2
+
+Query  314  RSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + W  LMA+++MFLH N I GEDPYRFYTWN+TYGD+YPLGVKQQ
+Sbjct  3    KRWSSLMALLLMFLHGNLICGEDPYRFYTWNITYGDVYPLGVKQQ  47
+
+
+ Score = 79.0 bits (193),  Expect = 3e-11, Method: Compositional matrix adjust.
+ Identities = 35/40 (88%), Positives = 37/40 (93%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+CVTNDNLIINVFNNLD+ FLISW
+Sbjct  45   KQQGILINGQFPGPTIECVTNDNLIINVFNNLDEPFLISW  84
+
+
+>PSS16145.1 L-ascorbate oxidase [Actinidia chinensis var. chinensis]
+Length=542
+
+ Score = 205 bits (521),  Expect(3) = 4e-110, Method: Compositional matrix adjust.
+ Identities = 99/116 (85%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YR RISNVGLTTS+NFRIQ HKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL TADQ
+Sbjct  209   GKTYRLRISNVGLTTSINFRIQSHKMLLVEVEGTHTLQNTYDSLDIHLGQSYSVLFTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDY I VSTRFTSQVLTATS LRY NS GSV+ PPPGGPTIEIDWS NQARS+R
+Sbjct  269   PAQDYNIVVSTRFTSQVLTATSILRYRNSAGSVSDPPPGGPTIEIDWSLNQARSIR  324
+
+
+ Score = 179 bits (453),  Expect(3) = 4e-110, Method: Compositional matrix adjust.
+ Identities = 77/90 (86%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTY LQVKDQIGS++YFPSLAFHKAAGGFG I I
+Sbjct  85    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYALQVKDQIGSYFYFPSLAFHKAAGGFGGIKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIP+PF PPAG+++IL GDWFKQNH+
+Sbjct  145   ASRSVIPIPFDPPAGDYTILAGDWFKQNHT  174
+
+
+ Score = 68.2 bits (165),  Expect(3) = 4e-110, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD G+DLPFPDGLLINGRGSNGYTFTVDQG
+Sbjct  175   DLKAILDNGNDLPFPDGLLINGRGSNGYTFTVDQG  209
+
+
+ Score = 254 bits (649),  Expect(2) = 4e-94, Method: Compositional matrix adjust.
+ Identities = 125/177 (71%), Positives = 139/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYG+INTTRTIRLANSAPIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  324   RRNLTASGPRPNPQGSYHYGMINTTRTIRLANSAPIINGKQRYAVNSVSFIPADTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVF LG IPD+ +GSG YLQTSVMAADFRAY E++FEN ED+VQS+HIDGH+FF
+Sbjct  384   DHFNIPGVFKLGGIPDNLSGSGGYLQTSVMAADFRAYVEIVFENTEDNVQSWHIDGHNFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+  SRL+YNLRDTISR TVQV
+Sbjct  444   VVG---------------------------MDGGQWSSDSRLSYNLRDTISRCTVQV  473
+
+
+ Score = 122 bits (307),  Expect(2) = 4e-94, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 60/62 (97%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP+NAL+CG
+Sbjct  473   VYPQSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPNNALLCG  532
+
+Query  2904  RA  2909
+             RA
+Sbjct  533   RA  534
+
+
+ Score = 74.3 bits (181),  Expect = 9e-10, Method: Compositional matrix adjust.
+ Identities = 34/50 (68%), Positives = 40/50 (80%), Gaps = 3/50 (6%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M++  R W    AMV++F+ +  IHGEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  1    MEEKRRWW---TAMVVVFVLLKSIHGEDPYRFYTWNVTYGDIYPLGVKQQ  47
+
+
+ Score = 73.2 bits (178),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLI+NVFNNLD+ FL+SW
+Sbjct  45   KQQGILINGQFPGPAIESVTNDNLIVNVFNNLDEPFLLSW  84
+
+
+>XP_012089872.1 L-ascorbate oxidase homolog [Jatropha curcas]
+ KDP22727.1 hypothetical protein JCGZ_01829 [Jatropha curcas]
+Length=541
+
+ Score = 210 bits (535),  Expect(3) = 7e-110, Method: Compositional matrix adjust.
+ Identities = 100/116 (86%), Positives = 109/116 (94%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVLTATSTL YSNS GSV+GPPPGGPT ++DWS  QARS+R
+Sbjct  268   PAQDYYIVVSTRFTSQVLTATSTLHYSNSAGSVSGPPPGGPTTQVDWSLEQARSIR  323
+
+
+ Score = 172 bits (437),  Expect(3) = 7e-110, Method: Compositional matrix adjust.
+ Identities = 73/90 (81%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG+NFTY+LQVKDQIGS++YFPSL  HKAAGG G   I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCPIPPGQNFTYMLQVKDQIGSYFYFPSLGMHKAAGGIGGFKI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F++L GDWFK+NH+
+Sbjct  144   ASRSVIPVPFPPPAGDFTVLAGDWFKKNHT  173
+
+
+ Score = 68.2 bits (165),  Expect(3) = 7e-110, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGR SNGYTFTVDQG
+Sbjct  174   DLKAILDGGSDLPFPDGLLINGRASNGYTFTVDQG  208
+
+
+ Score = 260 bits (665),  Expect(2) = 8e-96, Method: Compositional matrix adjust.
+ Identities = 127/177 (72%), Positives = 141/177 (80%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             R+NL+ASGPRPNPQGSYHYGLINTTRTIRL NSAPIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  323   RKNLTASGPRPNPQGSYHYGLINTTRTIRLQNSAPIINGKQRYAVNSVSFIPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVF+LGSIPD+PTG GAYLQTSVMAADFR Y E+IFEN ED+VQS+H+DGH  F
+Sbjct  383   DHFNIPGVFSLGSIPDNPTGGGAYLQTSVMAADFRGYAEIIFENTEDTVQSWHVDGHILF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+PASRL+YNLRDTISR+TVQV
+Sbjct  443   VVG---------------------------MDGGQWSPASRLSYNLRDTISRNTVQV  472
+
+
+ Score = 122 bits (306),  Expect(2) = 8e-96, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 59/64 (92%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWNIRS+NWA QYLGQQFYLRVYSP NSWRDE PIP+N ++CG
+Sbjct  472   VYPKSWTAVYMPLDNVGMWNIRSENWAHQYLGQQFYLRVYSPANSWRDEYPIPTNTILCG  531
+
+Query  2904  RASS  2915
+             RA+ 
+Sbjct  532   RAAG  535
+
+
+ Score = 69.3 bits (168),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 30/40 (75%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIIN+FN+LD+ FL+SW
+Sbjct  44   KQQGILINGQFPGPQIESVTNENLIINIFNSLDEPFLLSW  83
+
+
+ Score = 62.4 bits (150),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 25/38 (66%), Positives = 32/38 (84%), Gaps = 0/38 (0%)
+ Frame = +2
+
+Query  335  AMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + +++ L +  + GEDPYRFY+WNVTYGDIYPLGVKQQ
+Sbjct  9    SFMVILLLLTCVSGEDPYRFYSWNVTYGDIYPLGVKQQ  46
+
+
+>XP_002524823.1 L-ascorbate oxidase homolog [Ricinus communis]
+ EEF37543.1 multicopper oxidase, putative [Ricinus communis]
+Length=538
+
+ Score = 207 bits (528),  Expect(3) = 2e-109, Method: Compositional matrix adjust.
+ Identities = 99/116 (85%), Positives = 107/116 (92%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQV T TS L YSNS GSV+GPPPGGPTI+IDWS  QARS+R
+Sbjct  270   PAQDYYIVVSTRFTSQVFTTTSILHYSNSAGSVSGPPPGGPTIQIDWSLEQARSIR  325
+
+
+ Score = 174 bits (441),  Expect(3) = 2e-109, Method: Compositional matrix adjust.
+ Identities = 74/90 (82%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSL  HKAAGG+G   I
+Sbjct  86    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLGMHKAAGGYGGFKI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F++L GDWF+ NH+
+Sbjct  146   ASRSVIPVPFPPPAGDFTVLAGDWFRMNHT  175
+
+
+ Score = 68.2 bits (165),  Expect(3) = 2e-109, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRGSNGYTF+VDQG
+Sbjct  176   DLKAILDGGSDLPFPDGLLINGRGSNGYTFSVDQG  210
+
+
+ Score = 257 bits (657),  Expect(2) = 1e-95, Method: Compositional matrix adjust.
+ Identities = 126/177 (71%), Positives = 140/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGL+NTTRTIRL NSA +INGKQRYA+NSVSF PADTPLKLA
+Sbjct  325   RRNLSASGPRPNPQGSYHYGLVNTTRTIRLQNSASMINGKQRYAVNSVSFTPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVF+LGSIPD+PTG GAYLQTSVMAADFR Y EV+F+N ED++QS+HIDGH+FF
+Sbjct  385   DHFNIPGVFSLGSIPDNPTGGGAYLQTSVMAADFRGYAEVVFDNPEDTLQSWHIDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+PASRL+YNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGQWSPASRLSYNLRDTISRCTVQV  474
+
+
+ Score = 124 bits (312),  Expect(2) = 1e-95, Method: Compositional matrix adjust.
+ Identities = 55/64 (86%), Positives = 60/64 (94%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWA QYLGQQFYLRVYSP NSWRDE PIPSNAL+CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNVRSENWAHQYLGQQFYLRVYSPANSWRDEYPIPSNALLCG  533
+
+Query  2904  RASS  2915
+             RA+ 
+Sbjct  534   RAAG  537
+
+
+ Score = 72.0 bits (175),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 33/40 (83%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLIINVFN+LD+ FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNDNLIINVFNSLDEPFLISW  85
+
+
+ Score = 62.0 bits (149),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 26/37 (70%), Positives = 31/37 (84%), Gaps = 0/37 (0%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+             V+  L V  I+GEDPYRFY+WN++YGDIYPLGVKQQ
+Sbjct  12   FVVAVLLVTCINGEDPYRFYSWNISYGDIYPLGVKQQ  48
+
+
+>CDP10787.1 unnamed protein product [Coffea canephora]
+Length=541
+
+ Score = 198 bits (503),  Expect(3) = 2e-109, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 103/116 (89%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGL TS+NFRIQGHKM++VEVEGTHT+QNTYDS D+HLGQS SVL+TADQ
+Sbjct  208   GKTYRFRISNVGLVTSLNFRIQGHKMLLVEVEGTHTLQNTYDSFDLHLGQSCSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PA+DYYI  STRFTSQVLTATS L YSNS  SV GPPPGGPT EIDWS NQARS+R
+Sbjct  268   PARDYYIVFSTRFTSQVLTATSLLHYSNSAVSVVGPPPGGPTTEIDWSLNQARSIR  323
+
+
+ Score = 179 bits (455),  Expect(3) = 2e-109, Method: Compositional matrix adjust.
+ Identities = 79/90 (88%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSF+YFPSLAF KAAGG+GSI I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFFYFPSLAFQKAAGGYGSIRI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA E++IL GDWFKQNH+
+Sbjct  144   YSRSVIPVPFPPPAAEYTILAGDWFKQNHT  173
+
+
+ Score = 72.0 bits (175),  Expect(3) = 2e-109, Method: Compositional matrix adjust.
+ Identities = 33/36 (92%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILDGGHDLPFPDG+LINGRGSNGYTFTVDQG 
+Sbjct  174   DLRAILDGGHDLPFPDGILINGRGSNGYTFTVDQGK  209
+
+
+ Score = 246 bits (629),  Expect(2) = 9e-92, Method: Compositional matrix adjust.
+ Identities = 121/177 (68%), Positives = 139/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             R+NL+ASGPRPNPQGSYHYG++NTTRTIRLANSAP+INGK+RYA+NSVSFVPADTPLKLA
+Sbjct  323   RQNLTASGPRPNPQGSYHYGMVNTTRTIRLANSAPVINGKKRYAVNSVSFVPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D++NI GVF+LGS+PD+PTGSG YLQTSVMAADFRA+ EV+FEN ED+VQS+HIDGH FF
+Sbjct  383   DYYNIQGVFSLGSMPDNPTGSGGYLQTSVMAADFRAFFEVVFENSEDTVQSWHIDGHIFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+PASR  YNLRD ISR TVQV
+Sbjct  443   VVG---------------------------MDGGQWSPASRSNYNLRDGISRCTVQV  472
+
+
+ Score = 122 bits (307),  Expect(2) = 9e-92, Method: Compositional matrix adjust.
+ Identities = 55/64 (86%), Positives = 59/64 (92%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTALYMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NS RDE PIP NAL+CG
+Sbjct  472   VYPRSWTALYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSLRDEYPIPKNALLCG  531
+
+Query  2904  RASS  2915
+             RAS 
+Sbjct  532   RASG  535
+
+
+ Score = 63.9 bits (154),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 28/40 (70%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I  VTN+NLI++VFN+L++ FL+SW
+Sbjct  44   KQQGILINGQFPGPQITSVTNENLIVSVFNSLNEPFLLSW  83
+
+
+ Score = 62.0 bits (149),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 29/41 (71%), Positives = 35/41 (85%), Gaps = 1/41 (2%)
+ Frame = +2
+
+Query  329  LMAMVM-MFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            L AMV+ + L +  I+GEDPY+F+TWNVTYGDIYPLGVKQQ
+Sbjct  6    LSAMVVAVVLLMKCINGEDPYQFFTWNVTYGDIYPLGVKQQ  46
+
+
+>XP_019194295.1 PREDICTED: L-ascorbate oxidase homolog [Ipomoea nil]
+ XP_019194296.1 PREDICTED: L-ascorbate oxidase homolog [Ipomoea nil]
+ XP_019194297.1 PREDICTED: L-ascorbate oxidase homolog [Ipomoea nil]
+ XP_019194298.1 PREDICTED: L-ascorbate oxidase homolog [Ipomoea nil]
+Length=540
+
+ Score = 198 bits (504),  Expect(3) = 3e-109, Method: Compositional matrix adjust.
+ Identities = 94/116 (81%), Positives = 104/116 (90%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRI+NVGLTTS+NFRIQGHKM++ E+EGTHT QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  212   GKTYRFRITNVGLTTSLNFRIQGHKMVLAEIEGTHTEQNTYDSLDIHLGQSYSVLVTADQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PA+DYYI  STRFTSQV+T+TS L Y NS  SV+GPPPGGPT EIDWS NQARSLR
+Sbjct  272   PAKDYYIVFSTRFTSQVITSTSILHYGNSAESVSGPPPGGPTTEIDWSLNQARSLR  327
+
+
+ Score = 188 bits (477),  Expect(3) = 3e-109, Method: Compositional matrix adjust.
+ Identities = 82/91 (90%), Positives = 88/91 (97%), Gaps = 0/91 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGV+GTNCPIPPG NFTYV+QVKDQIGSF+YFPSLAFHKAAGGFGSINI
+Sbjct  88    NGVEQRRNSWQDGVWGTNCPIPPGSNFTYVMQVKDQIGSFFYFPSLAFHKAAGGFGSINI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHSV  1303
+             ASRSVIPVPFPPPAGE++IL GDWFKQNH+ 
+Sbjct  148   ASRSVIPVPFPPPAGEYTILAGDWFKQNHTA  178
+
+
+ Score = 62.4 bits (150),  Expect(3) = 3e-109, Method: Compositional matrix adjust.
+ Identities = 28/34 (82%), Positives = 31/34 (91%), Gaps = 0/34 (0%)
+ Frame = +3
+
+Query  1389  LQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             L+  LD GH+LPFPDG+LINGRGSNGYTFTVDQG
+Sbjct  179   LKGTLDDGHELPFPDGILINGRGSNGYTFTVDQG  212
+
+
+ Score = 265 bits (676),  Expect(2) = 9e-98, Method: Compositional matrix adjust.
+ Identities = 132/177 (75%), Positives = 142/177 (80%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYA+NSVSF PADTPLKLA
+Sbjct  327   RRNLTASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAVNSVSFNPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVFTLGSIPD+PTGSGAYLQTSVMAADFRA+ E++FEN ED+VQS+HIDGHHFF
+Sbjct  387   DYFQIQGVFTLGSIPDTPTGSGAYLQTSVMAADFRAFVELVFENPEDTVQSWHIDGHHFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRL YNLRDTISRSTVQV
+Sbjct  447   VVG---------------------------MDGGQWTPASRLAYNLRDTISRSTVQV  476
+
+
+ Score = 124 bits (311),  Expect(2) = 9e-98, Method: Compositional matrix adjust.
+ Identities = 56/62 (90%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALY+PLDNVGMWNIRSQNWARQYLGQQ YLRVYSP NSWRDE PIP NAL+CG
+Sbjct  476   VYPKSWTALYIPLDNVGMWNIRSQNWARQYLGQQLYLRVYSPANSWRDEAPIPGNALLCG  535
+
+Query  2904  RA  2909
+             RA
+Sbjct  536   RA  537
+
+
+ Score = 75.5 bits (184),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 37/40 (93%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+CVTNDNLI+NVFN+LD+ FL+SW
+Sbjct  48   KQQGILINGQFPGPSIECVTNDNLIVNVFNSLDEPFLLSW  87
+
+
+ Score = 67.0 bits (162),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 31/45 (69%), Positives = 34/45 (76%), Gaps = 1/45 (2%)
+ Frame = +2
+
+Query  317  SWLPLMAMVMMF-LHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            SW  LM MV+   L  N +  EDPYRF+TWNVTYGDIYPLGVKQQ
+Sbjct  6    SWGCLMVMVIALSLQENSVDAEDPYRFFTWNVTYGDIYPLGVKQQ  50
+
+
+>ASJ80918.1 L-ascorbate oxidase [Camellia sinensis]
+Length=545
+
+ Score = 205 bits (521),  Expect(3) = 8e-109, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 107/116 (92%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  212   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYY+ VSTRFTS VL+ATS   YSNS GSV+GPPPGGPT +IDWS NQARS+R
+Sbjct  272   PAQDYYMVVSTRFTSPVLSATSIFHYSNSAGSVSGPPPGGPTTQIDWSLNQARSVR  327
+
+
+ Score = 175 bits (444),  Expect(3) = 8e-109, Method: Compositional matrix adjust.
+ Identities = 77/90 (86%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPP KNFTYVLQVKDQIGS++YFPSLAFHKAAGGFG I I
+Sbjct  88    NGVQQRRNSWQDGVYGTNCPIPPRKNFTYVLQVKDQIGSYFYFPSLAFHKAAGGFGGIKI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             +SRSVIPVPF PPAG+++IL GDWFKQNH+
+Sbjct  148   SSRSVIPVPFNPPAGDYTILAGDWFKQNHT  177
+
+
+ Score = 67.0 bits (162),  Expect(3) = 8e-109, Method: Compositional matrix adjust.
+ Identities = 31/35 (89%), Positives = 35/35 (100%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG++LPFPDGLLINGRGSNG+TFTVDQG
+Sbjct  178   DLKAILDGGNNLPFPDGLLINGRGSNGFTFTVDQG  212
+
+
+ Score = 236 bits (603),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 118/177 (67%), Positives = 133/177 (75%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             R+NL+ASGPRPNPQGSYHYG+INTTRTIRLANSAPIIN KQRYA+NSVSF+PADTPLKLA
+Sbjct  327   RQNLTASGPRPNPQGSYHYGMINTTRTIRLANSAPIINDKQRYAVNSVSFIPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+L SI D+PTG G YLQTSVMAADFRAY E++FEN ED+VQS+HIDGH FF
+Sbjct  387   DYFKISGVFSLASISDNPTGGGGYLQTSVMAADFRAYVEIVFENQEDTVQSWHIDGHVFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+   R +YNLRDTISR TVQV
+Sbjct  447   VVG---------------------------MDGGQWSSDRRSSYNLRDTISRCTVQV  476
+
+
+ Score = 122 bits (306),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 55/62 (89%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+YMPLDNVGMWNIRS+NWARQYLGQQFYLRVYSP NSWRDE PIPSNAL+CG
+Sbjct  476   VYPNSWTAVYMPLDNVGMWNIRSENWARQYLGQQFYLRVYSPANSWRDEYPIPSNALLCG  535
+
+Query  2904  RA  2909
+             +A
+Sbjct  536   QA  537
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLII+VFN+LD+ FLISW
+Sbjct  48   KQQGILINGQFPGPQIESVTNDNLIISVFNSLDEPFLISW  87
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 29/44 (66%), Positives = 36/44 (82%), Gaps = 0/44 (0%)
+ Frame = +2
+
+Query  317  SWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            SW  +M ++ + +  N I+GEDPYRFYTWN+TYGDIYPLGVKQQ
+Sbjct  7    SWRCVMVVLFLMVLNNCINGEDPYRFYTWNITYGDIYPLGVKQQ  50
+
+
+>XP_018810754.1 PREDICTED: L-ascorbate oxidase homolog, partial [Juglans regia]
+Length=460
+
+ Score = 199 bits (505),  Expect(3) = 2e-108, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 104/116 (90%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTHT+QN YDSLD+HLGQSYSVL+TADQ
+Sbjct  129   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHTLQNIYDSLDVHLGQSYSVLVTADQ  188
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQ Y I  STRFTSQVLTATS LRY NS GSV+ PPPGGPTI+IDWS  QARS+R
+Sbjct  189   PAQAYDIVASTRFTSQVLTATSILRYGNSAGSVSSPPPGGPTIQIDWSLEQARSIR  244
+
+
+ Score = 181 bits (458),  Expect(3) = 2e-108, Method: Compositional matrix adjust.
+ Identities = 77/92 (84%), Positives = 87/92 (95%), Gaps = 0/92 (0%)
+ Frame = +2
+
+Query  1025  FRNGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSI  1204
+             FRNGV+QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLA HKAAGG+G  
+Sbjct  3     FRNGVQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLALHKAAGGYGGF  62
+
+Query  1205  NIASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              IASRSVIPVPFPPPAG+F+IL GDW+K+NH+
+Sbjct  63    KIASRSVIPVPFPPPAGDFTILAGDWYKKNHT  94
+
+
+ Score = 67.0 bits (162),  Expect(3) = 2e-108, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLING GSNGYTFTVDQG
+Sbjct  95    DLRAILDGGSDLPFPDGLLINGHGSNGYTFTVDQG  129
+
+
+ Score = 238 bits (608),  Expect(2) = 5e-89, Method: Compositional matrix adjust.
+ Identities = 122/177 (69%), Positives = 132/177 (75%), Gaps = 29/177 (16%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYG+INTT TI LANSAPIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  244   RRNLTASGPRPNPQGSYHYGMINTTHTIILANSAPIINGKQRYAVNSVSFIPADTPLKLA  303
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF  G IPDSPTG GAYLQTSVM ADFR Y EV+FEN ED VQS+HIDGH+FF
+Sbjct  304   DYFKISGVF--GGIPDSPTGGGAYLQTSVMTADFRGYAEVVFENPEDVVQSWHIDGHNFF  361
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+ ASRL YNLRDTISR TVQV
+Sbjct  362   VVG---------------------------MDGGQWSAASRLNYNLRDTISRCTVQV  391
+
+
+ Score = 121 bits (304),  Expect(2) = 5e-89, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTA+YMPLDNVGMWN+RS+NW RQYLGQQFYLRVYSP NSWRDE PIPSNAL CG
+Sbjct  391   VYPQSWTAVYMPLDNVGMWNVRSENWVRQYLGQQFYLRVYSPANSWRDEYPIPSNALRCG  450
+
+Query  2904  RA  2909
+             RA
+Sbjct  451   RA  452
+
+
+>XP_023887109.1 L-ascorbate oxidase homolog [Quercus suber]
+ POE67762.1 l-ascorbate oxidase like [Quercus suber]
+Length=541
+
+ Score = 207 bits (527),  Expect(3) = 2e-108, Method: Compositional matrix adjust.
+ Identities = 98/116 (84%), Positives = 107/116 (92%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYDSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVLT TS L YSNS GSV+GPPPGGPT +IDWS  QARS+R
+Sbjct  268   PAQDYYIVVSTRFTSQVLTTTSILHYSNSAGSVSGPPPGGPTTQIDWSLEQARSIR  323
+
+
+ Score = 176 bits (446),  Expect(3) = 2e-108, Method: Compositional matrix adjust.
+ Identities = 74/90 (82%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSL  HKAAGG+G   I
+Sbjct  84    NGIQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLGLHKAAGGYGGFQI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+++IL GDW+KQNH+
+Sbjct  144   ASRSVIPVPFPPPAGDYTILAGDWYKQNHT  173
+
+
+ Score = 62.8 bits (151),  Expect(3) = 2e-108, Method: Compositional matrix adjust.
+ Identities = 29/36 (81%), Positives = 31/36 (86%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILD G DLP PDGLL+NGRGSNGYTF VDQG 
+Sbjct  174   DLKAILDSGSDLPLPDGLLVNGRGSNGYTFNVDQGK  209
+
+
+ Score = 244 bits (624),  Expect(2) = 4e-92, Method: Compositional matrix adjust.
+ Identities = 119/177 (67%), Positives = 135/177 (76%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYG+INTTRTIRLANSAPIINGKQRYA+N VSF+PADTPLKLA
+Sbjct  323   RRNLTASGPRPNPQGSYHYGMINTTRTIRLANSAPIINGKQRYAVNGVSFIPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GV++LGS+ D PTG G YLQTSVMAADFR Y E++FEN ED+VQS+HIDGH FF
+Sbjct  383   DYFKISGVYSLGSVSDGPTGGGGYLQTSVMAADFRGYVEIVFENAEDTVQSWHIDGHSFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+ A+R +YNLRDTISRSTVQV
+Sbjct  443   VVG---------------------------MDGGQWSSANRQSYNLRDTISRSTVQV  472
+
+
+ Score = 125 bits (314),  Expect(2) = 4e-92, Method: Compositional matrix adjust.
+ Identities = 55/62 (89%), Positives = 60/62 (97%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP+NAL+CG
+Sbjct  472   VYPKSWTAIYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPTNALLCG  531
+
+Query  2904  RA  2909
+             RA
+Sbjct  532   RA  533
+
+
+ Score = 68.9 bits (167),  Expect = 4e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I  VTNDNLII+VFN+LD+ FL+SW
+Sbjct  44   KQQGILINGQFPGPQIDSVTNDNLIISVFNSLDEPFLLSW  83
+
+
+ Score = 63.9 bits (154),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 26/38 (68%), Positives = 32/38 (84%), Gaps = 0/38 (0%)
+ Frame = +2
+
+Query  335  AMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            +++++FL V    GEDPYRF+ WNVTYGDIYPLGVKQQ
+Sbjct  9    SLILVFLLVACASGEDPYRFFNWNVTYGDIYPLGVKQQ  46
+
+
+>XP_021822909.1 L-ascorbate oxidase homolog [Prunus avium]
+Length=542
+
+ Score = 201 bits (512),  Expect(3) = 8e-108, Method: Compositional matrix adjust.
+ Identities = 96/116 (83%), Positives = 106/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YR RISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTY SLDIHLGQSYSVL+TADQ
+Sbjct  209   GKTYRLRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYSSLDIHLGQSYSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTS+VL+ATS L YSNS GSV+GPPPGGPT +IDWS  QARSLR
+Sbjct  269   PAQDYYIVVSTRFTSEVLSATSILHYSNSAGSVSGPPPGGPTTQIDWSLEQARSLR  324
+
+
+ Score = 177 bits (449),  Expect(3) = 8e-108, Method: Compositional matrix adjust.
+ Identities = 76/90 (84%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGV+GTNCPIPPG+NFTYVLQVKDQIGS++YFPSL FHKAAGGFG I I
+Sbjct  85    NGVQQRRNSWQDGVFGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLGFHKAAGGFGGIKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDWF +NH+
+Sbjct  145   ASRSVIPVPFPPPAGDFTILAGDWFSKNHT  174
+
+
+ Score = 65.1 bits (157),  Expect(3) = 8e-108, Method: Compositional matrix adjust.
+ Identities = 30/36 (83%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILD G++LPFPDGLLINGRGSNG+TFTVDQG 
+Sbjct  175   DLKAILDSGNNLPFPDGLLINGRGSNGFTFTVDQGK  210
+
+
+ Score = 236 bits (603),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 118/177 (67%), Positives = 133/177 (75%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRL +SAPII+GKQRYA+NSVSF+  DTPLKLA
+Sbjct  324   RRNLTASGPRPNPQGSYHYGLINTTRTIRLTSSAPIIDGKQRYAVNSVSFIQPDTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF++GSI D+PTG GAYLQTSVM ADFR + E++FEN ED+VQS+HIDGH FF
+Sbjct  384   DYFKISGVFSIGSIQDNPTGGGAYLQTSVMNADFRGFAELVFENPEDTVQSWHIDGHSFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W PASRL YNLRDTISR TVQV
+Sbjct  444   VVG---------------------------MDGGQWEPASRLRYNLRDTISRCTVQV  473
+
+
+ Score = 122 bits (306),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  473   VYPNSWTAIYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPRNALLCG  532
+
+Query  2904  RA  2909
+             RA
+Sbjct  533   RA  534
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K +GILINGQFPGP I+ VTNDNLIINVFN+LD+ FL+SW
+Sbjct  45   KQRGILINGQFPGPQIESVTNDNLIINVFNSLDEPFLLSW  84
+
+
+ Score = 58.5 bits (140),  Expect = 6e-05, Method: Compositional matrix adjust.
+ Identities = 24/37 (65%), Positives = 29/37 (78%), Gaps = 0/37 (0%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            +++  L V    GEDPYRFY WNVTYGDIYPLG+KQ+
+Sbjct  11   ILVALLTVTCTSGEDPYRFYNWNVTYGDIYPLGLKQR  47
+
+
+>XP_021687447.1 L-ascorbate oxidase homolog [Hevea brasiliensis]
+ XP_021687448.1 L-ascorbate oxidase homolog [Hevea brasiliensis]
+Length=542
+
+ Score = 202 bits (514),  Expect(3) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 106/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  209   GKTYRFRISNVGLTTSLNFRIQGHKMLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDY I +STRFT+QVLT TS L YSNS GSV+GPPPGGPT +IDWS  QARSLR
+Sbjct  269   PAQDYNIVISTRFTTQVLTTTSILHYSNSAGSVSGPPPGGPTTQIDWSLEQARSLR  324
+
+
+ Score = 174 bits (441),  Expect(3) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 75/90 (83%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGV+GTNCPIPPG+NFTYVLQVKDQIGS++YFPSL  HKAAGGFG   I
+Sbjct  85    NGVQQRRNSWQDGVHGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLGMHKAAGGFGGFKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDWFK+NH+
+Sbjct  145   ASRSVIPVPFPPPAGDFTILAGDWFKRNHT  174
+
+
+ Score = 66.6 bits (161),  Expect(3) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFP GLLINGRGSNGYTFTVDQG
+Sbjct  175   DLRAILDGGTDLPFPHGLLINGRGSNGYTFTVDQG  209
+
+
+ Score = 252 bits (643),  Expect(2) = 2e-92, Method: Compositional matrix adjust.
+ Identities = 124/177 (70%), Positives = 138/177 (78%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRL ++APIIN KQRYA+NSVSF+PADTPLKLA
+Sbjct  324   RRNLTASGPRPNPQGSYHYGLINTTRTIRLQSTAPIINSKQRYAVNSVSFIPADTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNI G F+LGSIPD+PTG GAYLQTSVMAADFR Y E++FEN E +VQS+HIDGH+FF
+Sbjct  384   DHFNISGAFSLGSIPDNPTGGGAYLQTSVMAADFRGYAEIVFENPEQTVQSWHIDGHNFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRL+YNLRDTISR TVQV
+Sbjct  444   VVG---------------------------MDGGQWTPASRLSYNLRDTISRCTVQV  473
+
+
+ Score = 119 bits (298),  Expect(2) = 2e-92, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 58/64 (91%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NW RQYLGQQFYLRVYS  NSWRDE PIP NAL+CG
+Sbjct  473   VYPKSWTAVYMPLDNVGMWNVRSENWPRQYLGQQFYLRVYSLANSWRDEYPIPGNALLCG  532
+
+Query  2904  RASS  2915
+             RA+ 
+Sbjct  533   RAAG  536
+
+
+ Score = 72.4 bits (176),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 33/40 (83%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLIINVFN+LD+ FLISW
+Sbjct  45   KQQGILINGQFPGPQIESVTNDNLIINVFNSLDEPFLISW  84
+
+
+ Score = 57.8 bits (138),  Expect = 1e-04, Method: Compositional matrix adjust.
+ Identities = 26/40 (65%), Positives = 30/40 (75%), Gaps = 0/40 (0%)
+ Frame = +2
+
+Query  329  LMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + + + + L V  I GEDPYRFYTWNVTYG IYPLG KQQ
+Sbjct  8    IWSFMGVALLVTCISGEDPYRFYTWNVTYGYIYPLGEKQQ  47
+
+
+>GAV71914.1 Cu-oxidase domain-containing protein/Cu-oxidase_2 domain-containing 
+protein/Cu-oxidase_3 domain-containing protein [Cephalotus 
+follicularis]
+Length=542
+
+ Score = 203 bits (517),  Expect(3) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 107/116 (92%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGL+TSVNFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGLSTSVNFRIQGHKMLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VS+RFTSQVLTATS  RYSNS GSV+GP PGGPT +IDWS  Q+RS+R
+Sbjct  268   PAQDYYIVVSSRFTSQVLTATSIFRYSNSAGSVSGPLPGGPTTQIDWSLEQSRSIR  323
+
+
+ Score = 175 bits (443),  Expect(3) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 74/90 (82%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSL  HKAAGG+G I I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLGMHKAAGGYGGIKI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPP+GEF++L GDW+ QNH+
+Sbjct  144   ASRSVIPVPFPPPSGEFTVLAGDWYTQNHT  173
+
+
+ Score = 63.9 bits (154),  Expect(3) = 2e-107, Method: Compositional matrix adjust.
+ Identities = 30/36 (83%), Positives = 31/36 (86%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+A LD G DLPFPDGLLINGRGSNGYTF VDQG 
+Sbjct  174   DLKATLDSGSDLPFPDGLLINGRGSNGYTFNVDQGK  209
+
+
+ Score = 246 bits (629),  Expect(2) = 2e-91, Method: Compositional matrix adjust.
+ Identities = 121/177 (68%), Positives = 136/177 (77%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRT+RL NSAP+INGKQRYA+NSVSF+PADTPLKLA
+Sbjct  323   RRNLTASGPRPNPQGSYHYGLINTTRTVRLQNSAPVINGKQRYAVNSVSFIPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+LGSI D+PTG G YLQTSVMAADFR Y EV+FEN E++VQS+HIDGH+FF
+Sbjct  383   DYFKISGVFSLGSISDNPTGGGGYLQTSVMAADFRGYIEVVFENPEENVQSWHIDGHNFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+P SRL YNLRDTISR TVQV
+Sbjct  443   VVG---------------------------MDGGQWSPESRLIYNLRDTISRCTVQV  472
+
+
+ Score = 121 bits (304),  Expect(2) = 2e-91, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+YMPLDNVGMWN+RS+NWA QYLGQQFYLRVYSP NSWRDE PIPSNAL+CG
+Sbjct  473   VYPMSWTAVYMPLDNVGMWNVRSENWAHQYLGQQFYLRVYSPANSWRDEYPIPSNALLCG  532
+
+Query  2904  RA  2909
+             RA
+Sbjct  533   RA  534
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLII+VFN+LD+ FLISW
+Sbjct  44   KQQGILINGQFPGPQIESVTNDNLIISVFNSLDEPFLISW  83
+
+
+ Score = 64.7 bits (156),  Expect = 8e-07, Method: Compositional matrix adjust.
+ Identities = 27/40 (68%), Positives = 33/40 (83%), Gaps = 0/40 (0%)
+ Frame = +2
+
+Query  329  LMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + +++++ L V    GEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  7    VWSVILVVLLVTCASGEDPYRFYTWNVTYGDIYPLGVKQQ  46
+
+
+>XP_021629436.1 L-ascorbate oxidase homolog [Manihot esculenta]
+ XP_021629437.1 L-ascorbate oxidase homolog [Manihot esculenta]
+ OAY35116.1 hypothetical protein MANES_12G073700 [Manihot esculenta]
+Length=538
+
+ Score = 203 bits (517),  Expect(3) = 4e-107, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 107/116 (92%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHK+++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGLTTSLNFRIQGHKLLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDY I +STRFT+QVLT TS LRYSNS GSV+GPPPGGPT +IDWS  QARSLR
+Sbjct  268   PAQDYNIVISTRFTTQVLTTTSILRYSNSAGSVSGPPPGGPTTQIDWSLEQARSLR  323
+
+
+ Score = 172 bits (436),  Expect(3) = 4e-107, Method: Compositional matrix adjust.
+ Identities = 75/90 (83%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPI PG+NFTYVLQVKDQIGS++YFPSL  HKAAGGFG   I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCPILPGQNFTYVLQVKDQIGSYFYFPSLGMHKAAGGFGGFKI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDWFK+NH+
+Sbjct  144   ASRSVIPVPFPPPAGDFTILAGDWFKRNHT  173
+
+
+ Score = 66.2 bits (160),  Expect(3) = 4e-107, Method: Compositional matrix adjust.
+ Identities = 31/36 (86%), Positives = 33/36 (92%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILDGG DLPFPDG+LINGRGSNGYTF VDQG 
+Sbjct  174   DLRAILDGGSDLPFPDGVLINGRGSNGYTFAVDQGK  209
+
+
+ Score = 262 bits (670),  Expect(2) = 9e-97, Method: Compositional matrix adjust.
+ Identities = 131/177 (74%), Positives = 140/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTTRTIRL N+APIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  323   RRNLSASGPRPNPQGSYHYGLINTTRTIRLQNTAPIINGKQRYAVNSVSFIPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNI GVF+ GSIPD+PTG GAYLQTSVMAADFR Y EV+FEN ED+VQS+HIDGH+FF
+Sbjct  383   DHFNIQGVFSPGSIPDNPTGGGAYLQTSVMAADFRGYAEVVFENPEDTVQSWHIDGHNFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  GEWTPASRLTYNLRDTISR TVQV
+Sbjct  443   VVG---------------------------MDGGEWTPASRLTYNLRDTISRCTVQV  472
+
+
+ Score = 123 bits (309),  Expect(2) = 9e-97, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRV+SP NSWRDE PIP NAL+CG
+Sbjct  472   VYPKSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVFSPANSWRDEYPIPGNALLCG  531
+
+Query  2904  RA  2909
+             RA
+Sbjct  532   RA  533
+
+
+ Score = 72.0 bits (175),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 33/40 (83%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLIINVFN+LD+ FLISW
+Sbjct  44   KQQGILINGQFPGPQIESVTNDNLIINVFNSLDEPFLISW  83
+
+
+ Score = 60.5 bits (145),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 26/40 (65%), Positives = 31/40 (78%), Gaps = 0/40 (0%)
+ Frame = +2
+
+Query  329  LMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + + + + L V  I GEDPYRFY+WNVTYGDIYPLG KQQ
+Sbjct  7    IWSFMGVVLLVTCISGEDPYRFYSWNVTYGDIYPLGEKQQ  46
+
+
+>XP_016580624.1 PREDICTED: L-ascorbate oxidase homolog [Capsicum annuum]
+ PHT76408.1 L-ascorbate oxidase -like protein [Capsicum annuum]
+Length=545
+
+ Score = 291 bits (744),  Expect(2) = 7e-107, Method: Compositional matrix adjust.
+ Identities = 146/177 (82%), Positives = 149/177 (84%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSF+PADTPLKLA
+Sbjct  327   RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFIPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFEN+ED+VQSYHIDGHHFF
+Sbjct  387   DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENIEDNVQSYHIDGHHFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           MG GEWTPASRLTYNLRDTISRSTVQV
+Sbjct  447   VVG---------------------------MGGGEWTPASRLTYNLRDTISRSTVQV  476
+
+
+ Score = 128 bits (322),  Expect(2) = 7e-107, Method: Compositional matrix adjust.
+ Identities = 59/64 (92%), Positives = 62/64 (97%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYS VNSWRDE PIPSNAL+CG
+Sbjct  476   VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSRVNSWRDEYPIPSNALLCG  535
+
+Query  2904  RASS  2915
+             +AS+
+Sbjct  536   KAST  539
+
+
+ Score = 219 bits (558),  Expect(2) = 5e-67, Method: Compositional matrix adjust.
+ Identities = 106/116 (91%), Positives = 108/116 (93%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ
+Sbjct  212   GKTYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQVL   STLRYSNS G+V+GPPPGGPTIEIDWS NQARSLR
+Sbjct  272   PVQDYYIVVSTRFTSQVLNVMSTLRYSNSAGTVSGPPPGGPTIEIDWSLNQARSLR  327
+
+
+ Score = 67.4 bits (163),  Expect(2) = 5e-67, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGGHDLPF DGLLINGRGSNGYTF VDQG
+Sbjct  178   DLKAILDGGHDLPFSDGLLINGRGSNGYTFPVDQG  212
+
+
+ Score = 165 bits (417),  Expect = 3e-39, Method: Compositional matrix adjust.
+ Identities = 91/109 (83%), Positives = 93/109 (85%), Gaps = 3/109 (3%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGVYGT CPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI
+Sbjct  88    NGVEQRRNSWQDGVYGTTCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHSVSFSPSKISEGTFTTSFSD  1357
+             ASR  IPVPFPPPAGEFSILTGDWFKQNH+       I +G     FSD
+Sbjct  148   ASRPRIPVPFPPPAGEFSILTGDWFKQNHT---DLKAILDGGHDLPFSD  193
+
+
+ Score = 90.9 bits (224),  Expect = 5e-15, Method: Compositional matrix adjust.
+ Identities = 39/50 (78%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M K WRSW  LMA+ M+FLHVN ++G+DPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  1    MGKEWRSWSSLMAVAMIFLHVNLVNGDDPYRFYTWNVTYGDIYPLGVKQQ  50
+
+
+ Score = 74.3 bits (181),  Expect = 9e-10, Method: Compositional matrix adjust.
+ Identities = 35/40 (88%), Positives = 37/40 (93%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILIN QFPGPPIQCVTNDNLIINVFN+LD+ FLISW
+Sbjct  48   KQQGILINRQFPGPPIQCVTNDNLIINVFNSLDEPFLISW  87
+
+
+>XP_002301616.1 L-ascorbate oxidase homolog [Populus trichocarpa]
+ PNT51132.1 hypothetical protein POPTR_002G227600v3 [Populus trichocarpa]
+Length=545
+
+ Score = 192 bits (488),  Expect(3) = 8e-107, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 103/116 (89%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YR RISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  212   GKTYRLRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYDSLDIHLGQSYSVLVTADQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+              AQDY+I VSTRFTSQVLT TS L YSNS GSV+  PP GPTI++DWS  QARSLR
+Sbjct  272   AAQDYFIVVSTRFTSQVLTTTSILHYSNSAGSVSDSPPSGPTIQLDWSVEQARSLR  327
+
+
+ Score = 179 bits (453),  Expect(3) = 8e-107, Method: Compositional matrix adjust.
+ Identities = 77/90 (86%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSL  HKAAGGFG   I
+Sbjct  88    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLGMHKAAGGFGGFKI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDWFK+NH+
+Sbjct  148   ASRSVIPVPFPPPAGDFTILAGDWFKKNHT  177
+
+
+ Score = 69.7 bits (169),  Expect(3) = 8e-107, Method: Compositional matrix adjust.
+ Identities = 33/35 (94%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRGSNGYTFTVDQG
+Sbjct  178   DLKAILDGGSDLPFPDGLLINGRGSNGYTFTVDQG  212
+
+
+ Score = 255 bits (651),  Expect(2) = 8e-95, Method: Compositional matrix adjust.
+ Identities = 125/177 (71%), Positives = 139/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTT T+RL NSAPIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  327   RRNLTASGPRPNPQGSYHYGLINTTHTVRLQNSAPIINGKQRYAVNSVSFIPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVF+LGSI ++PTG GAY QTSVMAADFR Y E++FEN ED+VQS+HIDGH+FF
+Sbjct  387   DHFNIPGVFSLGSISNNPTGGGAYRQTSVMAADFRGYAEIVFENPEDNVQSWHIDGHNFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+PASRLTYNLRDTISR TVQV
+Sbjct  447   VVG---------------------------MDGGQWSPASRLTYNLRDTISRCTVQV  476
+
+
+ Score = 124 bits (311),  Expect(2) = 8e-95, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 61/64 (95%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP+NAL+CG
+Sbjct  476   VYPESWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPTNALLCG  535
+
+Query  2904  RASS  2915
+             RA+ 
+Sbjct  536   RAAG  539
+
+
+ Score = 67.8 bits (164),  Expect = 8e-08, Method: Compositional matrix adjust.
+ Identities = 30/40 (75%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILING+FPGP I+ VTNDNLII+VFN+LD+ FL+SW
+Sbjct  48   KQQGILINGKFPGPQIESVTNDNLIISVFNSLDEPFLLSW  87
+
+
+ Score = 62.4 bits (150),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 27/36 (75%), Positives = 31/36 (86%), Gaps = 0/36 (0%)
+ Frame = +2
+
+Query  341  VMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            +++ L V+   GEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  15   LVVLLLVSCTIGEDPYRFYTWNVTYGDIYPLGVKQQ  50
+
+
+>XP_007215641.1 L-ascorbate oxidase homolog [Prunus persica]
+ ONI18438.1 hypothetical protein PRUPE_3G216000 [Prunus persica]
+Length=542
+
+ Score = 201 bits (510),  Expect(3) = 1e-106, Method: Compositional matrix adjust.
+ Identities = 96/116 (83%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YR RISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTY SLDIHLGQSYSVL+TADQ
+Sbjct  209   GKTYRLRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYSSLDIHLGQSYSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVL+ TS L YSNS GSV+GPPPGGPT +IDWS  QARSLR
+Sbjct  269   PAQDYYIVVSTRFTSQVLSTTSILHYSNSAGSVSGPPPGGPTTQIDWSLEQARSLR  324
+
+
+ Score = 177 bits (449),  Expect(3) = 1e-106, Method: Compositional matrix adjust.
+ Identities = 76/90 (84%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGV+GTNCPIPPG+NFTYVLQVKDQIGS++YFPSL FHKAAGGFG I I
+Sbjct  85    NGVQQRRNSWQDGVFGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLGFHKAAGGFGGIKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDWF +NH+
+Sbjct  145   ASRSVIPVPFPPPAGDFTILAGDWFSKNHT  174
+
+
+ Score = 62.0 bits (149),  Expect(3) = 1e-106, Method: Compositional matrix adjust.
+ Identities = 29/36 (81%), Positives = 33/36 (92%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILD G++LP PDGLLINGRGSNG+TFTVDQG 
+Sbjct  175   DLKAILDSGNNLPSPDGLLINGRGSNGFTFTVDQGK  210
+
+
+ Score = 236 bits (603),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 118/177 (67%), Positives = 133/177 (75%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRL +SAPII+GKQRYA+NSVSF+  DTPLKLA
+Sbjct  324   RRNLTASGPRPNPQGSYHYGLINTTRTIRLTSSAPIIDGKQRYAVNSVSFIQPDTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF++GSI D+PTG GAYLQTSVM ADFR + E++FEN ED+VQS+HIDGH FF
+Sbjct  384   DYFKISGVFSIGSIQDNPTGGGAYLQTSVMNADFRGFAELVFENPEDTVQSWHIDGHSFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W PASRL YNLRDTISR TVQV
+Sbjct  444   VVG---------------------------MDGGQWEPASRLRYNLRDTISRCTVQV  473
+
+
+ Score = 122 bits (305),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  473   VYPNSWTAIYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPRNALLCG  532
+
+Query  2904  RA  2909
+             RA
+Sbjct  533   RA  534
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K +GILINGQFPGP I+ VTNDNLIINVFN+LD+ FL+SW
+Sbjct  45   KQRGILINGQFPGPQIESVTNDNLIINVFNSLDEPFLLSW  84
+
+
+ Score = 59.3 bits (142),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 24/37 (65%), Positives = 30/37 (81%), Gaps = 0/37 (0%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            +++  L V   +GEDPYRFY WNVTYGDIYPLG+KQ+
+Sbjct  11   ILVALLTVTCTNGEDPYRFYNWNVTYGDIYPLGLKQR  47
+
+
+>XP_022850328.1 L-ascorbate oxidase homolog [Olea europaea var. sylvestris]
+Length=539
+
+ Score = 199 bits (505),  Expect(3) = 1e-106, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 104/116 (90%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGL+TS+NFRIQGHKM++VEVEGTHT+QNTY+SLDIHLGQSYSVL+T DQ
+Sbjct  206   GKTYRFRISNVGLSTSINFRIQGHKMLLVEVEGTHTLQNTYESLDIHLGQSYSVLVTCDQ  265
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVLT TS L YSNS  S +GP PGGPT EIDWS NQARS+R
+Sbjct  266   PAQDYYIVVSTRFTSQVLTTTSILHYSNSALSASGPAPGGPTTEIDWSLNQARSIR  321
+
+
+ Score = 179 bits (455),  Expect(3) = 1e-106, Method: Compositional matrix adjust.
+ Identities = 76/90 (84%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPG+NFTY+LQVKDQIGSF+YFPSLAFHKAAGGFG I I
+Sbjct  82    NGIQQRRNSWQDGVYGTNCPIPPGQNFTYILQVKDQIGSFFYFPSLAFHKAAGGFGGIKI  141
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPAG+++IL GDWF+QNH+
+Sbjct  142   FSRSVIPVPFPPPAGDYTILAGDWFRQNHT  171
+
+
+ Score = 61.6 bits (148),  Expect(3) = 1e-106, Method: Compositional matrix adjust.
+ Identities = 30/35 (86%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD G +LPFPDGLLINGRGSNG TFTVDQG
+Sbjct  172   DLKAILDNGLNLPFPDGLLINGRGSNGNTFTVDQG  206
+
+
+ Score = 248 bits (634),  Expect(2) = 4e-93, Method: Compositional matrix adjust.
+ Identities = 121/177 (68%), Positives = 139/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             R+NL+ASGPRPNPQGSYHYGL+NTTRTIRLANSAP INGKQRYA+NSVSF+PADTPLKLA
+Sbjct  321   RQNLTASGPRPNPQGSYHYGLVNTTRTIRLANSAPSINGKQRYAVNSVSFIPADTPLKLA  380
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DH+NI GVF+LGSIPDSPTGSG YLQTSVMAADFR++ E++FEN ED+VQS+HI+GH FF
+Sbjct  381   DHYNIQGVFSLGSIPDSPTGSGGYLQTSVMAADFRSFVEIVFENSEDTVQSWHINGHIFF  440
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+PASR +YNLRD ISR T+QV
+Sbjct  441   VVG---------------------------MDGGQWSPASRSSYNLRDAISRCTIQV  470
+
+
+ Score = 125 bits (314),  Expect(2) = 4e-93, Method: Compositional matrix adjust.
+ Identities = 56/64 (88%), Positives = 59/64 (92%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTALYMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  470   VYPGSWTALYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPKNALLCG  529
+
+Query  2904  RASS  2915
+             RAS 
+Sbjct  530   RASG  533
+
+
+ Score = 67.0 bits (162),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 29/40 (73%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLI++VFN+LD+ FL+SW
+Sbjct  42   KQQGILINGQFPGPQIETVTNENLIVSVFNSLDEPFLLSW  81
+
+
+ Score = 62.4 bits (150),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 27/42 (64%), Positives = 34/42 (81%), Gaps = 4/42 (10%)
+ Frame = +2
+
+Query  323  LPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            L + A+V++     F +GEDPYRF+TWNV+YGDIYPLGVKQQ
+Sbjct  7    LAVTALVLL----GFTNGEDPYRFFTWNVSYGDIYPLGVKQQ  44
+
+
+>XP_019249658.1 PREDICTED: L-ascorbate oxidase homolog [Nicotiana attenuata]
+ OIT00335.1 l-ascorbate oxidase-like protein [Nicotiana attenuata]
+Length=544
+
+ Score = 290 bits (743),  Expect(2) = 2e-106, Method: Compositional matrix adjust.
+ Identities = 147/177 (83%), Positives = 147/177 (83%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA
+Sbjct  327   RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNIPGVFTLGSIPDSPTG GAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF
+Sbjct  387   DHFNIPGVFTLGSIPDSPTGGGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           MG GEWTPASRLTYNLRDTISRSTVQ 
+Sbjct  447   VVG---------------------------MGGGEWTPASRLTYNLRDTISRSTVQA  476
+
+
+ Score = 127 bits (319),  Expect(2) = 2e-106, Method: Compositional matrix adjust.
+ Identities = 58/63 (92%), Positives = 60/63 (95%), Gaps = 0/63 (0%)
+ Frame = +3
+
+Query  2727  YPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCGR  2906
+             YPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSP NSWRDE PIPSN L+CGR
+Sbjct  477   YPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPANSWRDEYPIPSNVLLCGR  536
+
+Query  2907  ASS  2915
+             AS+
+Sbjct  537   ASA  539
+
+
+ Score = 220 bits (560),  Expect = 3e-58, Method: Compositional matrix adjust.
+ Identities = 130/216 (60%), Positives = 146/216 (68%), Gaps = 21/216 (10%)
+ Frame = +1
+
+Query  1318  QDI*GNIYYFVF*SSMCLFAFYRTSKQFWMVDMI--------FPSLTG-FLLMDVDQMVI  1470
+             +D  G+ YYF         AF++ +  F  +++         FP  TG F ++  D    
+Sbjct  121   KDQIGSFYYF------PSLAFHKAAGGFGSINIASRSVIPVPFPPPTGEFSILTGDWFKQ  174
+
+Query  1471  RSPLIKVTL*SLHS---PDNFFGVFYLFC*SDICTFWGVPGKIYRFRISNVGLTTSVNFR  1641
+                 +K  L S H    PD   G+      S+  TF    GK YR RISNVGLTTS+NFR
+Sbjct  175   NHNDLKAILDSGHDLPFPD---GLLINGRGSNGYTFTVDQGKTYRLRISNVGLTTSINFR  231
+
+Query  1642  IQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQPAQDYYIAVSTRFTSQVLTA  1821
+             IQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQPA+DYYI VSTRFTSQVLTA
+Sbjct  232   IQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQPAKDYYIVVSTRFTSQVLTA  291
+
+Query  1822  TSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             TSTLRYSNS GSV+GPPP GPT EIDWS NQARSLR
+Sbjct  292   TSTLRYSNSAGSVSGPPPSGPTTEIDWSLNQARSLR  327
+
+
+ Score = 193 bits (490),  Expect = 6e-49, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGVEQRRNSWQDGVYGTNCPIPPG NFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI
+Sbjct  88    NGVEQRRNSWQDGVYGTNCPIPPGNNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPP GEFSILTGDWFKQNH+
+Sbjct  148   ASRSVIPVPFPPPTGEFSILTGDWFKQNHN  177
+
+
+ Score = 100 bits (249),  Expect = 4e-18, Method: Compositional matrix adjust.
+ Identities = 42/50 (84%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M K W SWLPLMA+VMMFLH N I GEDPYRFYTWNVTYGD+YPLGVKQQ
+Sbjct  1    MGKWWSSWLPLMAVVMMFLHANLISGEDPYRFYTWNVTYGDMYPLGVKQQ  50
+
+
+ Score = 82.0 bits (201),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 36/40 (90%), Positives = 38/40 (95%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGPPI+CVTNDNLIINVFNNLD+ FLISW
+Sbjct  48   KQQGILINGQFPGPPIECVTNDNLIINVFNNLDEPFLISW  87
+
+
+>OAY35115.1 hypothetical protein MANES_12G073700 [Manihot esculenta]
+Length=611
+
+ Score = 204 bits (518),  Expect(3) = 5e-106, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 107/116 (92%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHK+++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  281   GKTYRFRISNVGLTTSLNFRIQGHKLLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  340
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDY I +STRFT+QVLT TS LRYSNS GSV+GPPPGGPT +IDWS  QARSLR
+Sbjct  341   PAQDYNIVISTRFTTQVLTTTSILRYSNSAGSVSGPPPGGPTTQIDWSLEQARSLR  396
+
+
+ Score = 168 bits (425),  Expect(3) = 5e-106, Method: Compositional matrix adjust.
+ Identities = 75/90 (83%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPI PG+NFTYVLQVKDQIGS++YFPSL  HKAAGGFG   I
+Sbjct  157   NGVQQRRNSWQDGVYGTNCPILPGQNFTYVLQVKDQIGSYFYFPSLGMHKAAGGFGGFKI  216
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDWFK+NH+
+Sbjct  217   ASRSVIPVPFPPPAGDFTILAGDWFKRNHT  246
+
+
+ Score = 66.6 bits (161),  Expect(3) = 5e-106, Method: Compositional matrix adjust.
+ Identities = 31/36 (86%), Positives = 33/36 (92%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILDGG DLPFPDG+LINGRGSNGYTF VDQG 
+Sbjct  247   DLRAILDGGSDLPFPDGVLINGRGSNGYTFAVDQGK  282
+
+
+ Score = 263 bits (671),  Expect(2) = 7e-97, Method: Compositional matrix adjust.
+ Identities = 131/177 (74%), Positives = 140/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTTRTIRL N+APIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  396   RRNLSASGPRPNPQGSYHYGLINTTRTIRLQNTAPIINGKQRYAVNSVSFIPADTPLKLA  455
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DHFNI GVF+ GSIPD+PTG GAYLQTSVMAADFR Y EV+FEN ED+VQS+HIDGH+FF
+Sbjct  456   DHFNIQGVFSPGSIPDNPTGGGAYLQTSVMAADFRGYAEVVFENPEDTVQSWHIDGHNFF  515
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  GEWTPASRLTYNLRDTISR TVQV
+Sbjct  516   VVG---------------------------MDGGEWTPASRLTYNLRDTISRCTVQV  545
+
+
+ Score = 123 bits (309),  Expect(2) = 7e-97, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRV+SP NSWRDE PIP NAL+CG
+Sbjct  545   VYPKSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVFSPANSWRDEYPIPGNALLCG  604
+
+Query  2904  RA  2909
+             RA
+Sbjct  605   RA  606
+
+
+ Score = 72.4 bits (176),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 33/40 (83%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLIINVFN+LD+ FLISW
+Sbjct  117  KQQGILINGQFPGPQIESVTNDNLIINVFNSLDEPFLISW  156
+
+
+ Score = 58.5 bits (140),  Expect = 6e-05, Method: Compositional matrix adjust.
+ Identities = 26/34 (76%), Positives = 28/34 (82%), Gaps = 0/34 (0%)
+ Frame = +2
+
+Query  347  MFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + L V  I GEDPYRFY+WNVTYGDIYPLG KQQ
+Sbjct  86   VVLLVTCISGEDPYRFYSWNVTYGDIYPLGEKQQ  119
+
+
+>XP_008229964.1 PREDICTED: L-ascorbate oxidase homolog [Prunus mume]
+Length=542
+
+ Score = 200 bits (509),  Expect(3) = 9e-106, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YR RISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTY SLDIHLGQSYSVL+TADQ
+Sbjct  209   GKTYRLRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYSSLDIHLGQSYSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVL+ TS L YSN+ GSV+GPPPGGPT +IDWS  QARSLR
+Sbjct  269   PAQDYYIVVSTRFTSQVLSTTSILHYSNAAGSVSGPPPGGPTTQIDWSLEQARSLR  324
+
+
+ Score = 177 bits (450),  Expect(3) = 9e-106, Method: Compositional matrix adjust.
+ Identities = 76/90 (84%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGV+GTNCPIPPG+NFTYVLQVKDQIGS++YFPSL FHKAAGGFG I I
+Sbjct  85    NGVQQRRNSWQDGVFGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLGFHKAAGGFGGIKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDWF +NH+
+Sbjct  145   ASRSVIPVPFPPPAGDFTILAGDWFSKNHT  174
+
+
+ Score = 59.7 bits (143),  Expect(3) = 9e-106, Method: Compositional matrix adjust.
+ Identities = 28/36 (78%), Positives = 32/36 (89%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILD G++LP  DGLLINGRGSNG+TFTVDQG 
+Sbjct  175   DLKAILDSGNNLPLSDGLLINGRGSNGFTFTVDQGK  210
+
+
+ Score = 236 bits (603),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 118/177 (67%), Positives = 133/177 (75%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRL +SAPII+GKQRYA+NSVSF+  DTPLKLA
+Sbjct  324   RRNLTASGPRPNPQGSYHYGLINTTRTIRLTSSAPIIDGKQRYAVNSVSFIQPDTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF++GSI D+PTG GAYLQTSVM ADFR + E++FEN ED+VQS+HIDGH FF
+Sbjct  384   DYFKISGVFSIGSIQDNPTGGGAYLQTSVMNADFRGFAELVFENPEDTVQSWHIDGHSFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W PASRL YNLRDTISR TVQV
+Sbjct  444   VVG---------------------------MDGGQWEPASRLRYNLRDTISRCTVQV  473
+
+
+ Score = 122 bits (306),  Expect(2) = 1e-88, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  473   VYPNSWTAIYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPRNALLCG  532
+
+Query  2904  RA  2909
+             RA
+Sbjct  533   RA  534
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K +GILINGQFPGP I+ VTNDNLIINVFN+LD+ FL+SW
+Sbjct  45   KQRGILINGQFPGPQIESVTNDNLIINVFNSLDEPFLLSW  84
+
+
+ Score = 58.5 bits (140),  Expect = 6e-05, Method: Compositional matrix adjust.
+ Identities = 24/37 (65%), Positives = 29/37 (78%), Gaps = 0/37 (0%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            +++  L V    GEDPYRFY WNVTYGDIYPLG+KQ+
+Sbjct  11   ILVALLTVTCTSGEDPYRFYNWNVTYGDIYPLGLKQR  47
+
+
+>XP_011047251.1 PREDICTED: L-ascorbate oxidase homolog isoform X1 [Populus euphratica]
+ XP_011047252.1 PREDICTED: L-ascorbate oxidase homolog isoform X2 [Populus euphratica]
+Length=547
+
+ Score = 193 bits (490),  Expect(3) = 1e-105, Method: Compositional matrix adjust.
+ Identities = 94/116 (81%), Positives = 103/116 (89%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  214   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYDSLDIHLGQSYSVLVTADQ  273
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+              A DY+I VSTRFTSQVLT TS L YSNS GSV+  P GGPTI+IDWS  QARSLR
+Sbjct  274   AAHDYFIVVSTRFTSQVLTTTSILHYSNSAGSVSDAPLGGPTIQIDWSLEQARSLR  329
+
+
+ Score = 174 bits (441),  Expect(3) = 1e-105, Method: Compositional matrix adjust.
+ Identities = 74/90 (82%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSL  HKAAGGFG   I
+Sbjct  90    NGVQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLGMHKAAGGFGGFKI  149
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPP+G+F+ L GDWFK+NH+
+Sbjct  150   ASRSVIPVPFPPPSGDFTFLAGDWFKKNHN  179
+
+
+ Score = 69.7 bits (169),  Expect(3) = 1e-105, Method: Compositional matrix adjust.
+ Identities = 33/35 (94%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRGSNGYTFTVDQG
+Sbjct  180   DLKAILDGGSDLPFPDGLLINGRGSNGYTFTVDQG  214
+
+
+ Score = 253 bits (647),  Expect(2) = 2e-94, Method: Compositional matrix adjust.
+ Identities = 125/177 (71%), Positives = 139/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNLSASGPRPNPQGSYHYGLINTTRT+RL NSAPIINGKQR+A+NSVSF+ ADTPLKLA
+Sbjct  329   RRNLSASGPRPNPQGSYHYGLINTTRTVRLQNSAPIINGKQRFAVNSVSFISADTPLKLA  388
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DH+NIPGVF+L SIPDSPTG GAYL TSVMAADFR Y E++FEN ED+VQS+HIDGH+FF
+Sbjct  389   DHYNIPGVFSLVSIPDSPTGGGAYLPTSVMAADFRGYAEIVFENPEDNVQSWHIDGHNFF  448
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+PASRL+YNLRDTISR TVQV
+Sbjct  449   VVG---------------------------MDGGQWSPASRLSYNLRDTISRCTVQV  478
+
+
+ Score = 124 bits (312),  Expect(2) = 2e-94, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 61/64 (95%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP+NAL+CG
+Sbjct  478   VYPESWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPTNALLCG  537
+
+Query  2904  RASS  2915
+             RA+ 
+Sbjct  538   RAAG  541
+
+
+ Score = 67.4 bits (163),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILING FPGP I+ VTNDNLII+VFN+LD+ FLISW
+Sbjct  50   KQQGILINGLFPGPQIESVTNDNLIISVFNSLDEPFLISW  89
+
+
+ Score = 62.4 bits (150),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 30/37 (81%), Gaps = 0/37 (0%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M+ + L V    GEDPYRF+TWNVTYGDIYPLGVKQQ
+Sbjct  16   MLAVLLLVTCTAGEDPYRFHTWNVTYGDIYPLGVKQQ  52
+
+
+>XP_006447580.1 L-ascorbate oxidase homolog isoform X1 [Citrus clementina]
+ XP_006469673.1 L-ascorbate oxidase homolog isoform X1 [Citrus sinensis]
+ ESR60820.1 hypothetical protein CICLE_v10014842mg [Citrus clementina]
+ KDO54689.1 hypothetical protein CISIN_1g009283mg [Citrus sinensis]
+Length=538
+
+ Score = 200 bits (508),  Expect(3) = 2e-105, Method: Compositional matrix adjust.
+ Identities = 94/116 (81%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVG++TS+NFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+ ADQ
+Sbjct  208   GKTYRFRISNVGISTSINFRIQGHKMLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVRADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P Q YYI +STRFTSQVL+ATS L YSNS GSV+GPPPGGPT +IDWS  QARSLR
+Sbjct  268   PPQGYYIVISTRFTSQVLSATSVLHYSNSAGSVSGPPPGGPTTQIDWSLEQARSLR  323
+
+
+ Score = 174 bits (442),  Expect(3) = 2e-105, Method: Compositional matrix adjust.
+ Identities = 75/90 (83%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSLAFHKAAGG+G I I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGIKI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASR +IPVPF PPAG+F+IL GDW+K+NH+
+Sbjct  144   ASRPLIPVPFDPPAGDFTILAGDWYKKNHT  173
+
+
+ Score = 61.6 bits (148),  Expect(3) = 2e-105, Method: Compositional matrix adjust.
+ Identities = 29/35 (83%), Positives = 31/35 (89%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD G DLPFPDGL+INGRGSN  TFTVDQG
+Sbjct  174   DLKAILDSGSDLPFPDGLVINGRGSNANTFTVDQG  208
+
+
+ Score = 254 bits (648),  Expect(2) = 1e-93, Method: Compositional matrix adjust.
+ Identities = 124/177 (70%), Positives = 138/177 (78%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTT TIRL N+AP INGKQRYA+NSVSF+PADTPLKLA
+Sbjct  323   RRNLTASGPRPNPQGSYHYGLINTTHTIRLQNTAPTINGKQRYAVNSVSFIPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F IPGVF++GSIPD+PTG GAYLQTSVMAADFR + EV+FEN ED++QS+HIDGH+FF
+Sbjct  383   DYFKIPGVFSVGSIPDNPTGGGAYLQTSVMAADFRGFAEVVFENPEDTLQSWHIDGHNFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+              VG                           M  GEWTPASRLTYNLRDTISR TVQV
+Sbjct  443   AVG---------------------------MDGGEWTPASRLTYNLRDTISRCTVQV  472
+
+
+ Score = 121 bits (304),  Expect(2) = 1e-93, Method: Compositional matrix adjust.
+ Identities = 55/62 (89%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+Y+PLDNVGMWNIRS+NWARQYLGQQFYLRVYS  NSWRDE PIPSNAL+CG
+Sbjct  472   VYPKSWTAVYVPLDNVGMWNIRSENWARQYLGQQFYLRVYSSANSWRDEYPIPSNALLCG  531
+
+Query  2904  RA  2909
+             RA
+Sbjct  532   RA  533
+
+
+ Score = 70.1 bits (170),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLII+VFN LD+ FLISW
+Sbjct  44   KQQGILINGQFPGPSIEAVTNDNLIISVFNALDEPFLISW  83
+
+
+ Score = 60.8 bits (146),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 25/44 (57%), Positives = 34/44 (77%), Gaps = 0/44 (0%)
+ Frame = +2
+
+Query  317  SWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            S+  +  ++++F+ V+   GE PYRF+ WNVTYGDIYPLGVKQQ
+Sbjct  3    SYSSICCLLLVFMLVSCTRGESPYRFFNWNVTYGDIYPLGVKQQ  46
+
+
+>XP_017252589.1 PREDICTED: L-ascorbate oxidase homolog [Daucus carota subsp. 
+sativus]
+ XP_017252590.1 PREDICTED: L-ascorbate oxidase homolog [Daucus carota subsp. 
+sativus]
+Length=535
+
+ Score = 202 bits (513),  Expect(3) = 3e-105, Method: Compositional matrix adjust.
+ Identities = 96/116 (83%), Positives = 106/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTSVNFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  207   GKTYRFRISNVGLTTSVNFRIQGHKMILVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  266
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDY+I  STRFTS VLT+TS L YSNS GSV+GPPPGGPT E+DWS +QARS+R
+Sbjct  267   PPQDYFITASTRFTSPVLTSTSVLHYSNSAGSVSGPPPGGPTTEVDWSLSQARSIR  322
+
+
+ Score = 179 bits (453),  Expect(3) = 3e-105, Method: Compositional matrix adjust.
+ Identities = 77/90 (86%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLAFHKAAGG+G I I
+Sbjct  83    NGVQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGIKI  142
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPF PPAG+F++L GDWFKQNH+
+Sbjct  143   ASRSVIPVPFSPPAGDFTVLVGDWFKQNHT  172
+
+
+ Score = 55.5 bits (132),  Expect(3) = 3e-105, Method: Compositional matrix adjust.
+ Identities = 24/35 (69%), Positives = 31/35 (89%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL++ILD G++LPFPDGL+ING  +N +TFTVDQG
+Sbjct  173   DLKSILDSGNNLPFPDGLVINGLSANSFTFTVDQG  207
+
+
+ Score = 263 bits (671),  Expect(2) = 3e-96, Method: Compositional matrix adjust.
+ Identities = 126/177 (71%), Positives = 142/177 (80%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             R+NL+ASGPRPNPQGSYHYGLINTTRTIRLANSAP+INGKQRYA+N VSF+PADTPLKLA
+Sbjct  322   RKNLTASGPRPNPQGSYHYGLINTTRTIRLANSAPVINGKQRYAVNGVSFIPADTPLKLA  381
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNIPGVFTLGSIPD+P+GSG YLQTSVMAADFR + EV+FEN EDSVQS+H+DGHHFF
+Sbjct  382   DYFNIPGVFTLGSIPDNPSGSGGYLQTSVMAADFRGFVEVVFENSEDSVQSWHVDGHHFF  441
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           +  GEW+PASR TYNLRDT++RSTVQV
+Sbjct  442   VVG---------------------------LNGGEWSPASRETYNLRDTVARSTVQV  471
+
+
+ Score = 121 bits (304),  Expect(2) = 3e-96, Method: Compositional matrix adjust.
+ Identities = 55/62 (89%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+YMPLDNVGMWNIRS+NWARQYLGQQFYLRVYSP NSWRDE PIPSNAL CG
+Sbjct  471   VYPSSWTAVYMPLDNVGMWNIRSENWARQYLGQQFYLRVYSPANSWRDEYPIPSNALRCG  530
+
+Query  2904  RA  2909
+             +A
+Sbjct  531   QA  532
+
+
+ Score = 68.6 bits (166),  Expect = 4e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 34/40 (85%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I  VTNDNLIINV+N+LD+ FL SW
+Sbjct  43   KQQGILINGQFPGPQIDSVTNDNLIINVYNSLDEPFLFSW  82
+
+
+ Score = 65.1 bits (157),  Expect = 6e-07, Method: Compositional matrix adjust.
+ Identities = 30/45 (67%), Positives = 33/45 (73%), Gaps = 3/45 (7%)
+ Frame = +2
+
+Query  314  RSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            R+W     M++  L V    GEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  4    RAW---SLMLVALLLVECASGEDPYRFYTWNVTYGDIYPLGVKQQ  45
+
+
+>PON62222.1 Copper-resistance protein [Trema orientalis]
+Length=541
+
+ Score = 196 bits (498),  Expect(3) = 4e-105, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 103/116 (89%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEG HT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGVHTLQNTYDSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQ+LTATS L YSNS  SV+G  PGGPT +IDWS  QARSLR
+Sbjct  268   PPQDYYIVVSTRFTSQILTATSILHYSNSAASVSGSLPGGPTTQIDWSLEQARSLR  323
+
+
+ Score = 172 bits (437),  Expect(3) = 4e-105, Method: Compositional matrix adjust.
+ Identities = 76/90 (84%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDG+YGTNCPIPPG+NFTY+LQVKDQIGS++YFPSLAFHKAAGGFG I I
+Sbjct  84    NGVQQRRNSWQDGMYGTNCPIPPGQNFTYILQVKDQIGSYFYFPSLAFHKAAGGFGGIRI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA +F+IL GDWFKQNH+
+Sbjct  144   LSRSVIPVPFPPPANDFTILAGDWFKQNHT  173
+
+
+ Score = 66.2 bits (160),  Expect(3) = 4e-105, Method: Compositional matrix adjust.
+ Identities = 32/36 (89%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILDGG+DLPFPDGLLINGRGSNG TFTVDQG 
+Sbjct  174   DLKAILDGGNDLPFPDGLLINGRGSNGNTFTVDQGK  209
+
+
+ Score = 252 bits (643),  Expect(2) = 2e-93, Method: Compositional matrix adjust.
+ Identities = 124/177 (70%), Positives = 140/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLANSAP+INGKQRYA+NSVSF+PADTPLK+A
+Sbjct  323   RRNLTASGPRPNPQGSYHYGLINTTRTIRLANSAPVINGKQRYAVNSVSFIPADTPLKVA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNI GVF+LGSIP +PTG GAYLQTSVMAADFRAY E++FEN E++VQS+HIDG++FF
+Sbjct  383   DYFNISGVFSLGSIPANPTGGGAYLQTSVMAADFRAYVEIVFENEEETVQSWHIDGYNFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTP SRL YNLRDTISR TVQV
+Sbjct  443   VVG---------------------------MDGGQWTPESRLNYNLRDTISRCTVQV  472
+
+
+ Score = 123 bits (308),  Expect(2) = 2e-93, Method: Compositional matrix adjust.
+ Identities = 55/64 (86%), Positives = 59/64 (92%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+Y+PLDNVGMWNIRS+NW RQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  472   VYPKSWTAVYVPLDNVGMWNIRSENWVRQYLGQQFYLRVYSPANSWRDEYPIPKNALLCG  531
+
+Query  2904  RASS  2915
+             RAS 
+Sbjct  532   RASG  535
+
+
+ Score = 66.6 bits (161),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 34/40 (85%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K +GILINGQFPGP I  VTNDNLII+VFN LD+ FLISW
+Sbjct  44   KQRGILINGQFPGPLIDSVTNDNLIISVFNGLDEPFLISW  83
+
+
+ Score = 52.4 bits (124),  Expect = 0.005, Method: Compositional matrix adjust.
+ Identities = 22/26 (85%), Positives = 23/26 (88%), Gaps = 0/26 (0%)
+ Frame = +2
+
+Query  371  HGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+             GE PYRFY WNVTYGDIYPLGVKQ+
+Sbjct  21   SGESPYRFYDWNVTYGDIYPLGVKQR  46
+
+
+>XP_010046372.1 PREDICTED: L-ascorbate oxidase homolog [Eucalyptus grandis]
+ KCW88773.1 hypothetical protein EUGRSUZ_A01118 [Eucalyptus grandis]
+Length=542
+
+ Score = 199 bits (505),  Expect(3) = 5e-105, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 106/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK +RFRISNVG+TT++NFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQS SVL+T DQ
+Sbjct  212   GKTHRFRISNVGITTAINFRIQGHKMVLVEVEGTHTLQNTYDSLDIHLGQSCSVLVTCDQ  271
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTS+VLT TS L YSNS GSV+GPPPGGPT++IDWS  QARS+R
+Sbjct  272   PAQDYYIVVSTRFTSEVLTTTSILHYSNSAGSVSGPPPGGPTMQIDWSLEQARSMR  327
+
+
+ Score = 167 bits (422),  Expect(3) = 5e-105, Method: Compositional matrix adjust.
+ Identities = 74/90 (82%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+Q+RNSWQDGVYGTNCPIPPG+NFTY+LQVKDQIGS++YFPSLAFHKAAGGFG   I
+Sbjct  88    NGVQQKRNSWQDGVYGTNCPIPPGQNFTYILQVKDQIGSYFYFPSLAFHKAAGGFGGFKI  147
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA +F+IL GDWF +NHS
+Sbjct  148   LSRSVIPVPFPPPANDFTILAGDWFTKNHS  177
+
+
+ Score = 69.3 bits (168),  Expect(3) = 5e-105, Method: Compositional matrix adjust.
+ Identities = 33/35 (94%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRGSNGYTFTVDQG
+Sbjct  178   DLRAILDGGSDLPFPDGLLINGRGSNGYTFTVDQG  212
+
+
+ Score = 258 bits (658),  Expect(2) = 9e-94, Method: Compositional matrix adjust.
+ Identities = 127/177 (72%), Positives = 141/177 (80%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYG+INTT+TIRLANSA +INGKQRYA+NSVSFVPADTPLKLA
+Sbjct  327   RRNLTASGPRPNPQGSYHYGMINTTQTIRLANSASVINGKQRYAVNSVSFVPADTPLKLA  386
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNIPGVFTLGSIP+SPTG  AYLQTSVMAADFR Y E++FEN ED+VQS+HIDGH+FF
+Sbjct  387   DYFNIPGVFTLGSIPNSPTGGAAYLQTSVMAADFRGYAEIVFENSEDTVQSWHIDGHNFF  446
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRL+YNLRDTISR TVQV
+Sbjct  447   VVG---------------------------MDGGQWTPASRLSYNLRDTISRCTVQV  476
+
+
+ Score = 118 bits (295),  Expect(2) = 9e-94, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 57/64 (89%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFY RVYS   SWRDE PIPSNAL+CG
+Sbjct  476   VYPNSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYFRVYSSAKSWRDEYPIPSNALLCG  535
+
+Query  2904  RASS  2915
+             RA+ 
+Sbjct  536   RAAG  539
+
+
+ Score = 70.9 bits (172),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLIINVFN LD+ FL+SW
+Sbjct  48   KQQGILINGQFPGPQIESVTNDNLIINVFNALDEPFLLSW  87
+
+
+ Score = 55.1 bits (131),  Expect = 8e-04, Method: Compositional matrix adjust.
+ Identities = 23/26 (88%), Positives = 24/26 (92%), Gaps = 0/26 (0%)
+ Frame = +2
+
+Query  371  HGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            +GEDPY FY WNVTYGDIYPLGVKQQ
+Sbjct  25   NGEDPYSFYNWNVTYGDIYPLGVKQQ  50
+
+
+>XP_002320467.2 L-ascorbate oxidase homolog [Populus trichocarpa]
+ PNT05066.1 hypothetical protein POPTR_014G154500v3 [Populus trichocarpa]
+Length=542
+
+ Score = 197 bits (502),  Expect(3) = 9e-105, Method: Compositional matrix adjust.
+ Identities = 98/122 (80%), Positives = 107/122 (88%), Gaps = 0/122 (0%)
+ Frame = +1
+
+Query  1564  TFWGVPGKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSV  1743
+             TF   PGK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTYDSLDIHLGQSYSV
+Sbjct  208   TFTVDPGKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYDSLDIHLGQSYSV  267
+
+Query  1744  LLTADQPAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARS  1923
+             L+TADQ A DY+I VSTRFTSQVLT TSTL YSNS GSV+  P GGPTI+IDWS  QARS
+Sbjct  268   LVTADQAAHDYFIVVSTRFTSQVLTTTSTLHYSNSAGSVSDTPLGGPTIQIDWSLEQARS  327
+
+Query  1924  LR  1929
+             LR
+Sbjct  328   LR  329
+
+
+ Score = 169 bits (429),  Expect(3) = 9e-105, Method: Compositional matrix adjust.
+ Identities = 73/90 (81%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNC IPPG+NFTYVLQVKDQIGS++YFPSL  HKAAGGFG   I
+Sbjct  90    NGVQQRRNSWQDGVYGTNCAIPPGQNFTYVLQVKDQIGSYFYFPSLGMHKAAGGFGGFKI  149
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPF PP+G+F+ L GDWFK+NHS
+Sbjct  150   ASRSVIPVPFSPPSGDFTFLAGDWFKKNHS  179
+
+
+ Score = 67.0 bits (162),  Expect(3) = 9e-105, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRGSNGYTFTVD G
+Sbjct  180   DLKAILDGGSDLPFPDGLLINGRGSNGYTFTVDPG  214
+
+
+ Score = 261 bits (666),  Expect(2) = 9e-97, Method: Compositional matrix adjust.
+ Identities = 127/177 (72%), Positives = 141/177 (80%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRT+RL NSAPIINGKQRYA+NSVSF+ ADTPLKLA
+Sbjct  329   RRNLTASGPRPNPQGSYHYGLINTTRTVRLQNSAPIINGKQRYAVNSVSFISADTPLKLA  388
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             DH+NIPGVF+LGSIPDSPTG GAYLQTSVMAADFR Y E++FEN ED+VQS+HIDGH+FF
+Sbjct  389   DHYNIPGVFSLGSIPDSPTGGGAYLQTSVMAADFRGYAEIVFENPEDNVQSWHIDGHNFF  448
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+PASRL+YNLRDTISR TVQV
+Sbjct  449   VVG---------------------------MDGGQWSPASRLSYNLRDTISRCTVQV  478
+
+
+ Score = 125 bits (313),  Expect(2) = 9e-97, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 61/64 (95%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP+NAL+CG
+Sbjct  478   VYPESWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPTNALLCG  537
+
+Query  2904  RASS  2915
+             RA+ 
+Sbjct  538   RAAG  541
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLII+VFN+LD+ FLISW
+Sbjct  50   KQQGILINGQFPGPQIESVTNDNLIISVFNSLDEPFLISW  89
+
+
+ Score = 59.3 bits (142),  Expect = 4e-05, Method: Compositional matrix adjust.
+ Identities = 28/50 (56%), Positives = 34/50 (68%), Gaps = 0/50 (0%)
+ Frame = +2
+
+Query  299  MKKGWRSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M + +R  +    M+ + L V    GED YRF+TWNVTYGDIYPLGVKQQ
+Sbjct  3    MAEHYRKNMRYSFMLAVLLLVTCTAGEDAYRFHTWNVTYGDIYPLGVKQQ  52
+
+
+>XP_022136099.1 L-ascorbate oxidase homolog [Momordica charantia]
+Length=538
+
+ Score = 203 bits (517),  Expect(3) = 1e-104, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTT++NFRIQGHKM++VEVEGTHT+QN YDSLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTAINFRIQGHKMLLVEVEGTHTLQNIYDSLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQVLT TS L YSNS  SV+GPPPGGPTI+IDWS  QARSLR
+Sbjct  270   PQQDYYIVVSTRFTSQVLTTTSILHYSNSAASVSGPPPGGPTIQIDWSLEQARSLR  325
+
+
+ Score = 167 bits (423),  Expect(3) = 1e-104, Method: Compositional matrix adjust.
+ Identities = 72/90 (80%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLAFHKAAG FG   I
+Sbjct  86    NGIQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLAFHKAAGAFGGFKI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRS+IPVPFPPPAGEF++L GDW+ +NH+
+Sbjct  146   LSRSIIPVPFPPPAGEFTVLAGDWYSKNHT  175
+
+
+ Score = 63.2 bits (152),  Expect(3) = 1e-104, Method: Compositional matrix adjust.
+ Identities = 30/35 (86%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGR SNG TFTV+QG
+Sbjct  176   DLRAILDGGSDLPFPDGLLINGRASNGNTFTVEQG  210
+
+
+ Score = 241 bits (614),  Expect(2) = 2e-89, Method: Compositional matrix adjust.
+ Identities = 118/177 (67%), Positives = 135/177 (76%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+A+GPRPNPQGSYHYG+IN T TIRL ++APIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  325   RRNLTANGPRPNPQGSYHYGIINVTHTIRLQSTAPIINGKQRYAVNSVSFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+LGSI D PTG G YLQTSVMAA+FR Y EV+FEN ED++QS+H+DGH+FF
+Sbjct  385   DYFKISGVFSLGSISDYPTGGGGYLQTSVMAANFRGYAEVVFENPEDAMQSWHVDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGQWTPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 120 bits (302),  Expect(2) = 2e-89, Method: Compositional matrix adjust.
+ Identities = 55/62 (89%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTA+YMPLDNVGMWNIRS+NWARQYLGQQ YLRVYSPVNSWRDE PIP NAL CG
+Sbjct  474   VYPQSWTAVYMPLDNVGMWNIRSENWARQYLGQQLYLRVYSPVNSWRDEYPIPRNALRCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD+ FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDEPFLISW  85
+
+
+ Score = 57.0 bits (136),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 23/32 (72%), Positives = 30/32 (94%), Gaps = 0/32 (0%)
+ Frame = +2
+
+Query  353  LHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + ++ I+GEDPYRF+TWN+TYGDI+PLGVKQQ
+Sbjct  17   VSLSCINGEDPYRFFTWNITYGDIWPLGVKQQ  48
+
+
+>CDP19581.1 unnamed protein product [Coffea canephora]
+Length=541
+
+ Score = 205 bits (522),  Expect(3) = 1e-104, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGL TS+NFRIQGHKM++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  211   GKTYRFRISNVGLATSINFRIQGHKMVLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  270
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYY+  S RFT QVLTATS LRYSNS  SV+GPPPGGPTIE+DWS NQARSLR
+Sbjct  271   PIQDYYLVASMRFTPQVLTATSVLRYSNSQKSVSGPPPGGPTIEVDWSLNQARSLR  326
+
+
+ Score = 166 bits (419),  Expect(3) = 1e-104, Method: Compositional matrix adjust.
+ Identities = 73/90 (81%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG+EQRRNSWQDGV+GTNCPIPPGKN+TY LQVKDQIGS++YFPSLAFHKAAGG+G I I
+Sbjct  87    NGLEQRRNSWQDGVWGTNCPIPPGKNYTYALQVKDQIGSYFYFPSLAFHKAAGGYGGIKI  146
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPF PPAG+++IL GDWF Q+H+
+Sbjct  147   ASRSVIPVPFAPPAGDYTILAGDWFNQSHN  176
+
+
+ Score = 62.4 bits (150),  Expect(3) = 1e-104, Method: Compositional matrix adjust.
+ Identities = 27/35 (77%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD GH+LPFP+GLLINGRG+NGY FTV+ G
+Sbjct  177   DLKAILDSGHNLPFPNGLLINGRGTNGYVFTVEHG  211
+
+
+ Score = 253 bits (647),  Expect(2) = 7e-94, Method: Compositional matrix adjust.
+ Identities = 123/177 (69%), Positives = 138/177 (78%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTT TIRLANSAPIINGKQRYA+NSVSF+PADTP+KLA
+Sbjct  326   RRNLTASGPRPNPQGSYHYGLINTTHTIRLANSAPIINGKQRYAVNSVSFIPADTPVKLA  385
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNIPGVF+L SIP +PTG G YLQTSVMA+++R Y E++FEN ED++QS+HIDGHHFF
+Sbjct  386   DYFNIPGVFSLSSIPQNPTGGGGYLQTSVMASEYRGYAEIVFENSEDTLQSWHIDGHHFF  445
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  GEWTPASR  YNLRDTISRSTVQV
+Sbjct  446   VVG---------------------------MDGGEWTPASRFVYNLRDTISRSTVQV  475
+
+
+ Score = 122 bits (307),  Expect(2) = 7e-94, Method: Compositional matrix adjust.
+ Identities = 52/62 (84%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDN GMWN+RSQ+WARQ+LGQQFYLR++SP NSWRDENPIPSN L+CG
+Sbjct  475   VYPKSWTAVYMPLDNAGMWNVRSQDWARQHLGQQFYLRIFSPANSWRDENPIPSNTLLCG  534
+
+Query  2904  RA  2909
+             RA
+Sbjct  535   RA  536
+
+
+ Score = 75.1 bits (183),  Expect = 4e-10, Method: Compositional matrix adjust.
+ Identities = 34/40 (85%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLIINVFNNLD+ FLISW
+Sbjct  47   KQQGILINGQFPGPAIESVTNDNLIINVFNNLDEPFLISW  86
+
+
+ Score = 55.5 bits (132),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 24/29 (83%), Positives = 26/29 (90%), Gaps = 0/29 (0%)
+ Frame = +2
+
+Query  362  NFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            + I  EDPYRF+TWNVTYGDIYPLGVKQQ
+Sbjct  21   DCIIAEDPYRFFTWNVTYGDIYPLGVKQQ  49
+
+
+>EOY02215.1 SKU5 similar 5 isoform 1 [Theobroma cacao]
+Length=540
+
+ Score = 197 bits (501),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 104/116 (90%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHK+++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTSINFRIQGHKLLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI  STRFTSQVL  T+ L YSNS G+V+GP PGGPT +IDWS  QARS+R
+Sbjct  270   PAQDYYIVASTRFTSQVLATTAVLHYSNSAGTVSGPLPGGPTTQIDWSLEQARSIR  325
+
+
+ Score = 168 bits (425),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 71/90 (79%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG NFTY LQVKDQIGS++YFPSLA HKAAGG+G   I
+Sbjct  86    NGVQQRRNSWQDGVYGTNCPIPPGGNFTYTLQVKDQIGSYFYFPSLALHKAAGGYGGFRI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA +++IL GDW+K+NH+
+Sbjct  146   LSRSVIPVPFPPPAADYTILAGDWYKKNHT  175
+
+
+ Score = 67.0 bits (162),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 31/36 (86%), Positives = 33/36 (92%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILD G DLPFPDGLLINGRG+NGYTFTVDQG 
+Sbjct  176   DLKAILDSGSDLPFPDGLLINGRGANGYTFTVDQGK  211
+
+
+ Score = 255 bits (651),  Expect(2) = 3e-94, Method: Compositional matrix adjust.
+ Identities = 127/177 (72%), Positives = 140/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLA+SA IINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  325   RRNLTASGPRPNPQGSYHYGLINTTRTIRLASSASIINGKQRYAVNSVSFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNI GVF+LGSIP  PTG GAYLQTSVMAADFR YTE++FEN ED++QS+HIDGH+FF
+Sbjct  385   DYFNISGVFSLGSIPVGPTGGGAYLQTSVMAADFRGYTEIVFENPEDTLQSWHIDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGQWTPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 122 bits (305),  Expect(2) = 3e-94, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP  SWRDE PIP NAL+CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPAKSWRDEYPIPRNALLCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.1 bits (170),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD  FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDQPFLISW  85
+
+
+ Score = 60.1 bits (144),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 32/37 (86%), Gaps = 1/37 (3%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M++M L V+  +GED YRF+TWNVTYGDIYPLGVKQQ
+Sbjct  13   MLVMLL-VSCTNGEDAYRFFTWNVTYGDIYPLGVKQQ  48
+
+
+>XP_004287955.1 PREDICTED: L-ascorbate oxidase homolog [Fragaria vesca subsp. 
+vesca]
+Length=542
+
+ Score = 195 bits (495),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 102/116 (88%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVG+ TS+NFRIQGHKM++VEVEG HT+QNTY SLDIHLGQS SVL+TADQ
+Sbjct  209   GKTYRFRISNVGIATSINFRIQGHKMLLVEVEGIHTLQNTYSSLDIHLGQSLSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQVL+ATS L YSNS GSV+GPPPGGPT E+DWS  QARS R
+Sbjct  269   PPQDYYIVVSTRFTSQVLSATSILHYSNSGGSVSGPPPGGPTTEVDWSLEQARSFR  324
+
+
+ Score = 173 bits (438),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 75/90 (83%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGV+GTNCPIPPG+NFTYVLQVKDQIGS+YYFPSLAFHKAAGG+G I I
+Sbjct  85    NGVQQRRNSWQDGVFGTNCPIPPGQNFTYVLQVKDQIGSYYYFPSLAFHKAAGGYGGIKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             +SR  IPVPF PPAG+F+IL GDWFKQNH+
+Sbjct  145   SSRPRIPVPFDPPAGDFTILAGDWFKQNHT  174
+
+
+ Score = 63.9 bits (154),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 30/36 (83%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILDGG++LPFPDGL+INGRGSNG TFTVDQG 
+Sbjct  175   DLKAILDGGNNLPFPDGLIINGRGSNGNTFTVDQGK  210
+
+
+ Score = 230 bits (586),  Expect(2) = 4e-87, Method: Compositional matrix adjust.
+ Identities = 115/177 (65%), Positives = 132/177 (75%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRL NSAPIINGKQRYAINSVSF+  DTPLK+A
+Sbjct  324   RRNLTASGPRPNPQGSYHYGLINTTRTIRLTNSAPIINGKQRYAINSVSFLQPDTPLKVA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF++GSI D+PTG G YLQTSVM ADFRA+ E +FEN E+++QS+H+DG+ FF
+Sbjct  384   DYFKISGVFSVGSISDNPTGGGGYLQTSVMHADFRAFVEFVFENPENTLQSWHLDGYSFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRL YNL DT+SR TVQV
+Sbjct  444   VVG---------------------------MDGGQWTPASRLRYNLMDTVSRCTVQV  473
+
+
+ Score = 124 bits (310),  Expect(2) = 4e-87, Method: Compositional matrix adjust.
+ Identities = 55/64 (86%), Positives = 60/64 (94%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP SWTA+Y+PLDNVGMWN+RS+NWARQYLGQQFYLRVYSPVNSWRDE PIP NAL+CG
+Sbjct  473   VYPNSWTAIYVPLDNVGMWNVRSENWARQYLGQQFYLRVYSPVNSWRDEYPIPKNALLCG  532
+
+Query  2904  RASS  2915
+             RAS 
+Sbjct  533   RASG  536
+
+
+ Score = 73.6 bits (179),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 33/40 (83%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I CVTNDNLII+VFN+LD+ FLISW
+Sbjct  45   KQQGILINGQFPGPQIDCVTNDNLIISVFNSLDEPFLISW  84
+
+
+ Score = 65.9 bits (159),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            +++  L V+F +GEDPYRFY WNVTYGDIYPLGVKQQ
+Sbjct  11   LLVALLTVSFTNGEDPYRFYNWNVTYGDIYPLGVKQQ  47
+
+
+>XP_017972091.1 PREDICTED: L-ascorbate oxidase homolog [Theobroma cacao]
+Length=540
+
+ Score = 197 bits (500),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 104/116 (90%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHK+++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTSINFRIQGHKLLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI  STRFTSQVL  T+ L YSNS G+V+GP PGGPT +IDWS  QARS+R
+Sbjct  270   PAQDYYIVASTRFTSQVLATTAVLHYSNSAGTVSGPLPGGPTTQIDWSLEQARSIR  325
+
+
+ Score = 168 bits (425),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 71/90 (79%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG NFTY LQVKDQIGS++YFPSLA HKAAGG+G   I
+Sbjct  86    NGVQQRRNSWQDGVYGTNCPIPPGGNFTYTLQVKDQIGSYFYFPSLALHKAAGGYGGFRI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA +++IL GDW+K+NH+
+Sbjct  146   LSRSVIPVPFPPPAADYTILAGDWYKKNHT  175
+
+
+ Score = 66.6 bits (161),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 31/35 (89%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD G DLPFPDGLLINGRG+NGYTFTVDQG
+Sbjct  176   DLKAILDSGSDLPFPDGLLINGRGANGYTFTVDQG  210
+
+
+ Score = 255 bits (651),  Expect(2) = 3e-94, Method: Compositional matrix adjust.
+ Identities = 127/177 (72%), Positives = 140/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLA+SA IINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  325   RRNLTASGPRPNPQGSYHYGLINTTRTIRLASSASIINGKQRYAVNSVSFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNI GVF+LGSIP  PTG GAYLQTSVMAADFR YTE++FEN ED++QS+HIDGH+FF
+Sbjct  385   DYFNISGVFSLGSIPVGPTGGGAYLQTSVMAADFRGYTEIVFENPEDTLQSWHIDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGQWTPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 122 bits (306),  Expect(2) = 3e-94, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP  SWRDE PIP NAL+CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPAKSWRDEYPIPRNALLCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.1 bits (170),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD  FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDQPFLISW  85
+
+
+ Score = 60.1 bits (144),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 32/37 (86%), Gaps = 1/37 (3%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M++M L V+  +GED YRF+TWNVTYGDIYPLGVKQQ
+Sbjct  13   MLVMLL-VSCTNGEDAYRFFTWNVTYGDIYPLGVKQQ  48
+
+
+>XP_022988735.1 L-ascorbate oxidase homolog [Cucurbita maxima]
+Length=538
+
+ Score = 202 bits (514),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 106/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTT++NFRIQGHKM++VEVEGTHT+QNTY+SLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTAINFRIQGHKMLLVEVEGTHTLQNTYESLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQ+LT TSTL YSN+  SV+GPPPGGPTI+ DWS  QARSLR
+Sbjct  270   PPQDYYIVVSTRFTSQILTTTSTLHYSNAAASVSGPPPGGPTIQTDWSLEQARSLR  325
+
+
+ Score = 167 bits (422),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 71/90 (79%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSLAFHKAAG FG   I
+Sbjct  86    NGIQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLAFHKAAGAFGGFKI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRS+IPVPF  PAGEF++L GDW+ +NH+
+Sbjct  146   HSRSIIPVPFTTPAGEFTVLAGDWYSKNHT  175
+
+
+ Score = 62.8 bits (151),  Expect(3) = 4e-104, Method: Compositional matrix adjust.
+ Identities = 30/35 (86%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRG NG TFTV+QG
+Sbjct  176   DLRAILDGGSDLPFPDGLLINGRGPNGNTFTVEQG  210
+
+
+ Score = 248 bits (632),  Expect(2) = 3e-92, Method: Compositional matrix adjust.
+ Identities = 122/177 (69%), Positives = 136/177 (77%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+A+GPRPNPQGSYHYGLIN T TIRL ++APIINGKQRYA+NS SF+PADTPLKLA
+Sbjct  325   RRNLTANGPRPNPQGSYHYGLINVTHTIRLQSTAPIINGKQRYAVNSASFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D++ I GVF+LGSIPD PTGSGAYLQTSVMAADFR Y EV+FEN ED+ QS+H+DGH+FF
+Sbjct  385   DYYKISGVFSLGSIPDYPTGSGAYLQTSVMAADFRGYAEVVFENPEDTEQSWHVDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  GEWTPASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGEWTPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 123 bits (308),  Expect(2) = 3e-92, Method: Compositional matrix adjust.
+ Identities = 56/62 (90%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWNIRS+NW RQYLGQQ YLRVYSPVNSWRDE PIPSNAL CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNIRSENWVRQYLGQQLYLRVYSPVNSWRDEYPIPSNALKCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD+ FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDEPFLISW  85
+
+
+ Score = 63.9 bits (154),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 26/39 (67%), Positives = 32/39 (82%), Gaps = 0/39 (0%)
+ Frame = +2
+
+Query  332  MAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+               + + L ++ I+GEDPYRFYTWNVTYGDI+PLGVKQQ
+Sbjct  10   FTFLFLVLSLSCINGEDPYRFYTWNVTYGDIWPLGVKQQ  48
+
+
+>XP_021300407.1 L-ascorbate oxidase homolog [Herrania umbratica]
+Length=540
+
+ Score = 197 bits (501),  Expect(3) = 5e-104, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHK+++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTSINFRIQGHKLLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQ+YYI  STRFTSQVL  T+ LRYSNS G+V+GP PGGPT +IDWS  QARS+R
+Sbjct  270   PAQEYYIVASTRFTSQVLATTAILRYSNSAGTVSGPLPGGPTTQIDWSLEQARSIR  325
+
+
+ Score = 167 bits (423),  Expect(3) = 5e-104, Method: Compositional matrix adjust.
+ Identities = 71/90 (79%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG NFTY LQVKDQIGS++YFPSLA HKAAGG+G   I
+Sbjct  86    NGVQQRRNSWQDGVYGTNCPIPPGGNFTYTLQVKDQIGSYFYFPSLALHKAAGGYGGFRI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA +++IL GDW+K+NH+
+Sbjct  146   FSRSVIPVPFPPPAADYTILAGDWYKKNHT  175
+
+
+ Score = 67.0 bits (162),  Expect(3) = 5e-104, Method: Compositional matrix adjust.
+ Identities = 31/36 (86%), Positives = 33/36 (92%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILD G DLPFPDGLLINGRG+NGYTFTVDQG 
+Sbjct  176   DLKAILDSGSDLPFPDGLLINGRGANGYTFTVDQGK  211
+
+
+ Score = 254 bits (648),  Expect(2) = 5e-94, Method: Compositional matrix adjust.
+ Identities = 125/177 (71%), Positives = 139/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRT+RLA+SA IINGK RYA+NSVSF+PADTPLKLA
+Sbjct  325   RRNLTASGPRPNPQGSYHYGLINTTRTVRLASSASIINGKPRYAVNSVSFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNI GVF+LGSIPD PTG GAYLQTSVMAADFR Y E++FEN ED++QS+HIDGH+FF
+Sbjct  385   DYFNISGVFSLGSIPDGPTGGGAYLQTSVMAADFRGYAEIVFENPEDTLQSWHIDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGQWTPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 122 bits (307),  Expect(2) = 5e-94, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYP+SWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  474   VYPRSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPRNALLCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.1 bits (170),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD  FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDQPFLISW  85
+
+
+ Score = 58.2 bits (139),  Expect = 7e-05, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 31/37 (84%), Gaps = 1/37 (3%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            M++M L V   +GED YRF+TWNVTYGDIYPLGVKQQ
+Sbjct  13   MLVMLL-VICTNGEDAYRFFTWNVTYGDIYPLGVKQQ  48
+
+
+>EOY02216.1 SKU5 similar 5 isoform 2 [Theobroma cacao]
+Length=447
+
+ Score = 197 bits (501),  Expect(3) = 9e-104, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 104/116 (90%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHK+++VEVEGTHT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTSINFRIQGHKLLLVEVEGTHTLQNTYDSLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI  STRFTSQVL  T+ L YSNS G+V+GP PGGPT +IDWS  QARS+R
+Sbjct  270   PAQDYYIVASTRFTSQVLATTAVLHYSNSAGTVSGPLPGGPTTQIDWSLEQARSIR  325
+
+
+ Score = 167 bits (422),  Expect(3) = 9e-104, Method: Compositional matrix adjust.
+ Identities = 71/90 (79%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG NFTY LQVKDQIGS++YFPSLA HKAAGG+G   I
+Sbjct  86    NGVQQRRNSWQDGVYGTNCPIPPGGNFTYTLQVKDQIGSYFYFPSLALHKAAGGYGGFRI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA +++IL GDW+K+NH+
+Sbjct  146   LSRSVIPVPFPPPAADYTILAGDWYKKNHT  175
+
+
+ Score = 66.6 bits (161),  Expect(3) = 9e-104, Method: Compositional matrix adjust.
+ Identities = 31/35 (89%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD G DLPFPDGLLINGRG+NGYTFTVDQG
+Sbjct  176   DLKAILDSGSDLPFPDGLLINGRGANGYTFTVDQG  210
+
+
+ Score = 221 bits (564),  Expect = 7e-60, Method: Compositional matrix adjust.
+ Identities = 104/123 (85%), Positives = 116/123 (94%), Gaps = 0/123 (0%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLA+SA IINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  325   RRNLTASGPRPNPQGSYHYGLINTTRTIRLASSASIINGKQRYAVNSVSFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNI GVF+LGSIP  PTG GAYLQTSVMAADFR YTE++FEN ED++QS+HIDGH+FF
+Sbjct  385   DYFNISGVFSLGSIPVGPTGGGAYLQTSVMAADFRGYTEIVFENPEDTLQSWHIDGHNFF  444
+
+Query  2459  VVG  2467
+             VVG
+Sbjct  445   VVG  447
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD  FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDQPFLISW  85
+
+
+ Score = 61.2 bits (147),  Expect = 8e-06, Method: Compositional matrix adjust.
+ Identities = 25/38 (66%), Positives = 31/38 (82%), Gaps = 0/38 (0%)
+ Frame = +2
+
+Query  335  AMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+              +++ L V+  +GED YRF+TWNVTYGDIYPLGVKQQ
+Sbjct  11   CFMLVMLLVSCTNGEDAYRFFTWNVTYGDIYPLGVKQQ  48
+
+
+>XP_022930723.1 L-ascorbate oxidase homolog [Cucurbita moschata]
+Length=538
+
+ Score = 202 bits (514),  Expect(3) = 1e-103, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 106/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTT++NFRIQGHKM++VEVEGTHT+QNTY+SLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTAINFRIQGHKMLLVEVEGTHTLQNTYESLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQ+LT TSTL YSN+  SV+GPPPGGPTI+ DWS  QARSLR
+Sbjct  270   PPQDYYIVVSTRFTSQILTTTSTLHYSNAAASVSGPPPGGPTIQTDWSLEQARSLR  325
+
+
+ Score = 166 bits (421),  Expect(3) = 1e-103, Method: Compositional matrix adjust.
+ Identities = 70/90 (78%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLAFHKAAG FG   I
+Sbjct  86    NGIQQRRNSWQDGVYGTNCPIPPGRNFTYVLQVKDQIGSYFYFPSLAFHKAAGAFGGFKI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRS+IPVPF  PAGEF++L GDW+ +NH+
+Sbjct  146   QSRSIIPVPFATPAGEFTVLAGDWYSKNHT  175
+
+
+ Score = 62.0 bits (149),  Expect(3) = 1e-103, Method: Compositional matrix adjust.
+ Identities = 30/35 (86%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRG NG TFTV+QG
+Sbjct  176   DLRAILDGGSDLPFPDGLLINGRGLNGNTFTVEQG  210
+
+
+ Score = 246 bits (627),  Expect(2) = 1e-91, Method: Compositional matrix adjust.
+ Identities = 121/177 (68%), Positives = 136/177 (77%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+A+GPRPNPQGSYHYGLIN T TIRL ++APIINGKQRYA+NS SF+PADTPLKLA
+Sbjct  325   RRNLTANGPRPNPQGSYHYGLINVTHTIRLQSTAPIINGKQRYAVNSASFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D++ I GVF+LGSIPD PTGSGAYLQTSV+AADFR Y EV+FEN ED+ QS+H+DGH+FF
+Sbjct  385   DYYKISGVFSLGSIPDYPTGSGAYLQTSVIAADFRGYAEVVFENPEDTEQSWHVDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  GEWTPASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGEWTPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 123 bits (308),  Expect(2) = 1e-91, Method: Compositional matrix adjust.
+ Identities = 56/62 (90%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWNIRS+NW RQYLGQQ YLRVYSPVNSWRDE PIPSNAL CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNIRSENWVRQYLGQQLYLRVYSPVNSWRDEYPIPSNALKCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD+ FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDEPFLISW  85
+
+
+ Score = 64.3 bits (155),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 26/39 (67%), Positives = 32/39 (82%), Gaps = 0/39 (0%)
+ Frame = +2
+
+Query  332  MAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+               + + L ++ I+GEDPYRFYTWNVTYGDI+PLGVKQQ
+Sbjct  10   FTFLFLVLSLSCINGEDPYRFYTWNVTYGDIWPLGVKQQ  48
+
+
+>PON68699.1 Copper-resistance protein [Parasponia andersonii]
+Length=541
+
+ Score = 193 bits (491),  Expect(3) = 1e-103, Method: Compositional matrix adjust.
+ Identities = 93/116 (80%), Positives = 102/116 (88%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEG HT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGVHTLQNTYDSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P  DYYI VSTRFTSQ+LTATS L YSNS  S++G  PGGPT +IDWS  QARSLR
+Sbjct  268   PPLDYYIVVSTRFTSQILTATSILHYSNSAASISGSLPGGPTTQIDWSLEQARSLR  323
+
+
+ Score = 171 bits (432),  Expect(3) = 1e-103, Method: Compositional matrix adjust.
+ Identities = 76/90 (84%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNC IPPG+NFTY+LQVKDQIGS++YFPSLAFHKAAGGFG I I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCAIPPGQNFTYILQVKDQIGSYFYFPSLAFHKAAGGFGGIRI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPFPPPA +F+IL GDWFKQNH+
+Sbjct  144   LSRSVIPVPFPPPANDFTILAGDWFKQNHT  173
+
+
+ Score = 66.2 bits (160),  Expect(3) = 1e-103, Method: Compositional matrix adjust.
+ Identities = 32/36 (89%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQGH  1493
+             DL+AILDGG+DLPFPDGLLINGRGSNG TFTVDQG 
+Sbjct  174   DLKAILDGGNDLPFPDGLLINGRGSNGNTFTVDQGK  209
+
+
+ Score = 251 bits (642),  Expect(2) = 4e-93, Method: Compositional matrix adjust.
+ Identities = 123/177 (69%), Positives = 139/177 (79%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRLANSAP+INGKQRYA+NSVSF+P DTPLK+A
+Sbjct  323   RRNLTASGPRPNPQGSYHYGLINTTRTIRLANSAPVINGKQRYAVNSVSFIPVDTPLKVA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+FNI GVF+LGSIPD PTG+GAYLQTSVMAADFRAY E++FEN E++VQS+HIDG++FF
+Sbjct  383   DYFNISGVFSLGSIPDKPTGAGAYLQTSVMAADFRAYVEIVFENEEETVQSWHIDGYNFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTP  RL YNLRDTISR TVQV
+Sbjct  443   VVG---------------------------MDGGQWTPERRLNYNLRDTISRCTVQV  472
+
+
+ Score = 122 bits (305),  Expect(2) = 4e-93, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 59/64 (92%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+++PLDNVGMWNIRS+NW RQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  472   VYPKSWTAVFVPLDNVGMWNIRSENWVRQYLGQQFYLRVYSPANSWRDEYPIPKNALLCG  531
+
+Query  2904  RASS  2915
+             RAS 
+Sbjct  532   RASG  535
+
+
+ Score = 66.6 bits (161),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 34/40 (85%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K +GILINGQFPGP I  VTNDNLII+VFN LD+ FLISW
+Sbjct  44   KQRGILINGQFPGPLIDSVTNDNLIISVFNGLDEPFLISW  83
+
+
+ Score = 52.4 bits (124),  Expect = 0.005, Method: Compositional matrix adjust.
+ Identities = 22/26 (85%), Positives = 23/26 (88%), Gaps = 0/26 (0%)
+ Frame = +2
+
+Query  371  HGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+             GE PYRFY WNVTYGDIYPLGVKQ+
+Sbjct  21   SGESPYRFYDWNVTYGDIYPLGVKQR  46
+
+
+>XP_008455444.1 PREDICTED: L-ascorbate oxidase homolog [Cucumis melo]
+Length=543
+
+ Score = 202 bits (513),  Expect(3) = 2e-103, Method: Compositional matrix adjust.
+ Identities = 94/116 (81%), Positives = 106/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTT++NFRIQGHKM++VEVEGTHT+QNTY+S+D+HLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTAINFRIQGHKMLLVEVEGTHTLQNTYESIDVHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQ+LT TS L YSNS  SV+GPPPGGPTI+IDWS  QARSLR
+Sbjct  270   PPQDYYIVVSTRFTSQILTTTSILHYSNSAASVSGPPPGGPTIQIDWSLEQARSLR  325
+
+
+ Score = 169 bits (427),  Expect(3) = 2e-103, Method: Compositional matrix adjust.
+ Identities = 70/90 (78%), Positives = 82/90 (91%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLA HKAAGGFG   I
+Sbjct  86    NGIQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLALHKAAGGFGGFKI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRS+IP+PFP PAGEF++L GDW+ +NH+
+Sbjct  146   QSRSIIPIPFPTPAGEFTVLAGDWYSKNHT  175
+
+
+ Score = 58.5 bits (140),  Expect(3) = 2e-103, Method: Compositional matrix adjust.
+ Identities = 29/35 (83%), Positives = 31/35 (89%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLP PDGLLINGRG NG TFTV+QG
+Sbjct  176   DLRAILDGGSDLPSPDGLLINGRGLNGNTFTVEQG  210
+
+
+ Score = 249 bits (636),  Expect(2) = 4e-93, Method: Compositional matrix adjust.
+ Identities = 123/177 (69%), Positives = 137/177 (77%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+A+GPRPNPQGSYHYGLIN T TIRL ++APIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  325   RRNLTANGPRPNPQGSYHYGLINVTHTIRLQSTAPIINGKQRYAVNSVSFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+LGSIPD PTGSGAYLQTSVMAADFR Y EV+FEN ED VQS+H+DGH+FF
+Sbjct  385   DYFKISGVFSLGSIPDYPTGSGAYLQTSVMAADFRGYAEVVFENPEDVVQSWHVDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTPA+RLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGQWTPANRLTYNLRDTISRCTVQV  474
+
+
+ Score = 124 bits (312),  Expect(2) = 4e-93, Method: Compositional matrix adjust.
+ Identities = 57/62 (92%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWNIRS+NWARQYLGQQ YLRVYSPVNSWRDE PIPSNAL CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNIRSENWARQYLGQQLYLRVYSPVNSWRDEYPIPSNALKCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.9 bits (172),  Expect = 9e-09, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD+ FLISW
+Sbjct  46   KQQGILINGQFPGPQIEAVTNENLIINVFNSLDEPFLISW  85
+
+
+ Score = 64.7 bits (156),  Expect = 8e-07, Method: Compositional matrix adjust.
+ Identities = 27/42 (64%), Positives = 36/42 (86%), Gaps = 2/42 (5%)
+ Frame = +2
+
+Query  329  LMAMVMMFLHVNF--IHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            L ++  +FL ++F  I+GEDPYRF+TWN+TYGDI+PLGVKQQ
+Sbjct  7    LYSLTSLFLVLSFSCIYGEDPYRFFTWNITYGDIWPLGVKQQ  48
+
+
+>XP_023531945.1 L-ascorbate oxidase homolog [Cucurbita pepo subsp. pepo]
+Length=538
+
+ Score = 200 bits (508),  Expect(3) = 4e-103, Method: Compositional matrix adjust.
+ Identities = 94/116 (81%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGL T++NFRIQGHKM++VEVEGTHT+QNTY+SLDIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLITAINFRIQGHKMLLVEVEGTHTLQNTYESLDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQ+LT TSTL YSN+  SV+GPPPGGPTI+ DWS  QARSLR
+Sbjct  270   PPQDYYIVVSTRFTSQILTTTSTLHYSNAAASVSGPPPGGPTIQTDWSLEQARSLR  325
+
+
+ Score = 166 bits (421),  Expect(3) = 4e-103, Method: Compositional matrix adjust.
+ Identities = 70/90 (78%), Positives = 81/90 (90%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLAFHKAAG FG   I
+Sbjct  86    NGIQQRRNSWQDGVYGTNCPIPPGRNFTYVLQVKDQIGSYFYFPSLAFHKAAGAFGGFKI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRS+IPVPF  PAGEF++L GDW+ +NH+
+Sbjct  146   QSRSIIPVPFATPAGEFTVLAGDWYSKNHT  175
+
+
+ Score = 62.0 bits (149),  Expect(3) = 4e-103, Method: Compositional matrix adjust.
+ Identities = 30/35 (86%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRG NG TFTV+QG
+Sbjct  176   DLRAILDGGSDLPFPDGLLINGRGLNGNTFTVEQG  210
+
+
+ Score = 246 bits (627),  Expect(2) = 1e-91, Method: Compositional matrix adjust.
+ Identities = 121/177 (68%), Positives = 136/177 (77%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+A+GPRPNPQGSYHYGLIN T TIRL ++APIINGKQRYA+NS SF+PADTPLKLA
+Sbjct  325   RRNLTANGPRPNPQGSYHYGLINVTHTIRLQSTAPIINGKQRYAVNSASFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D++ I GVF+LGSIPD PTGSGAYLQTSV+AADFR Y EV+FEN ED+ QS+H+DGH+FF
+Sbjct  385   DYYKISGVFSLGSIPDYPTGSGAYLQTSVIAADFRGYAEVVFENPEDTEQSWHVDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  GEWTPASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGEWTPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 123 bits (308),  Expect(2) = 1e-91, Method: Compositional matrix adjust.
+ Identities = 56/62 (90%), Positives = 58/62 (94%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWNIRS+NW RQYLGQQ YLRVYSPVNSWRDE PIPSNAL CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNIRSENWVRQYLGQQLYLRVYSPVNSWRDEYPIPSNALKCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD+ FLISW
+Sbjct  46   KQQGILINGQFPGPQIESVTNENLIINVFNSLDEPFLISW  85
+
+
+ Score = 63.9 bits (154),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 26/39 (67%), Positives = 32/39 (82%), Gaps = 0/39 (0%)
+ Frame = +2
+
+Query  332  MAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+               + + L ++ I+GEDPYRFYTWNVTYGDI+PLGVKQQ
+Sbjct  10   FTFLFLVLSLSCINGEDPYRFYTWNVTYGDIWPLGVKQQ  48
+
+
+>XP_004144498.1 PREDICTED: L-ascorbate oxidase homolog [Cucumis sativus]
+Length=543
+
+ Score = 201 bits (510),  Expect(3) = 6e-103, Method: Compositional matrix adjust.
+ Identities = 94/116 (81%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTT++NFRIQGHKM++VEVEGTHT+QNTY+S+DIHLGQSYSVL+TADQ
+Sbjct  210   GKTYRFRISNVGLTTAINFRIQGHKMLLVEVEGTHTLQNTYESIDIHLGQSYSVLVTADQ  269
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQ+LT TS L YSNS  SV+GPPPGGPT +IDWS  QARSLR
+Sbjct  270   PPQDYYIVVSTRFTSQILTTTSLLHYSNSAASVSGPPPGGPTFQIDWSLEQARSLR  325
+
+
+ Score = 169 bits (427),  Expect(3) = 6e-103, Method: Compositional matrix adjust.
+ Identities = 70/90 (78%), Positives = 82/90 (91%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG++QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLA HKAAGGFG   I
+Sbjct  86    NGIQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLALHKAAGGFGGFKI  145
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRS+IP+PFP PAGEF++L GDW+ +NH+
+Sbjct  146   QSRSIIPIPFPTPAGEFTVLAGDWYSKNHT  175
+
+
+ Score = 58.5 bits (140),  Expect(3) = 6e-103, Method: Compositional matrix adjust.
+ Identities = 29/35 (83%), Positives = 31/35 (89%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLP PDGLLINGRG NG TFTV+QG
+Sbjct  176   DLRAILDGGSDLPSPDGLLINGRGLNGNTFTVEQG  210
+
+
+ Score = 240 bits (612),  Expect(2) = 2e-90, Method: Compositional matrix adjust.
+ Identities = 120/177 (68%), Positives = 133/177 (75%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+A+GPRPNPQGSYHY LIN TRTIRL ++APIINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  325   RRNLTANGPRPNPQGSYHYRLINVTRTIRLHSTAPIINGKQRYAVNSVSFIPADTPLKLA  384
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+LGSIPD PTG  AYLQTSVM ADFR Y EV+FEN ED VQS+H+DGH+FF
+Sbjct  385   DYFKISGVFSLGSIPDYPTGGDAYLQTSVMNADFRGYAEVVFENPEDVVQSWHVDGHNFF  444
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W PASRLTYNLRDTISR TVQV
+Sbjct  445   VVG---------------------------MDGGQWIPASRLTYNLRDTISRCTVQV  474
+
+
+ Score = 124 bits (311),  Expect(2) = 2e-90, Method: Compositional matrix adjust.
+ Identities = 57/62 (92%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWNIRS+NWARQYLGQQ YLRVYSPVNSWRDE PIPSNAL CG
+Sbjct  474   VYPKSWTAVYMPLDNVGMWNIRSENWARQYLGQQLYLRVYSPVNSWRDEYPIPSNALKCG  533
+
+Query  2904  RA  2909
+             RA
+Sbjct  534   RA  535
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTN+NLIINVFN+LD+ FLISW
+Sbjct  46   KQQGILINGQFPGPQIEAVTNENLIINVFNSLDEPFLISW  85
+
+
+ Score = 61.2 bits (147),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 26/42 (62%), Positives = 34/42 (81%), Gaps = 2/42 (5%)
+ Frame = +2
+
+Query  329  LMAMVMMFLHVNF--IHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            L ++  +FL ++F  I+GEDPYRF  WN+TYGDI+PLGVKQQ
+Sbjct  7    LCSLTFLFLVLSFSCINGEDPYRFLNWNITYGDIWPLGVKQQ  48
+
+
+>XP_023757115.1 L-ascorbate oxidase homolog [Lactuca sativa]
+ XP_023757116.1 L-ascorbate oxidase homolog [Lactuca sativa]
+ PLY90384.1 hypothetical protein LSAT_9X107241 [Lactuca sativa]
+Length=537
+
+ Score = 187 bits (475),  Expect(3) = 5e-102, Method: Compositional matrix adjust.
+ Identities = 87/116 (75%), Positives = 101/116 (87%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFR+SNVGLTTS+NFRIQGHK+++VEVEGTH++QNTYDS+DIHLGQSYS+L+T DQ
+Sbjct  208   GKTYRFRVSNVGLTTSINFRIQGHKLILVEVEGTHSLQNTYDSIDIHLGQSYSILVTTDQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P +DYYI VSTRFT+ VLT TS L YSN+V  +   PPGGPT EIDWS NQARSLR
+Sbjct  268   PPKDYYIIVSTRFTTPVLTTTSALHYSNAVSGLDDTPPGGPTTEIDWSLNQARSLR  323
+
+
+ Score = 170 bits (431),  Expect(3) = 5e-102, Method: Compositional matrix adjust.
+ Identities = 73/90 (81%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NG+ QRRNSWQDGV+GTNCPIPPG NFTY LQVKDQIGSF+YFPSLAFHKAAGG+G I +
+Sbjct  84    NGIMQRRNSWQDGVFGTNCPIPPGGNFTYNLQVKDQIGSFFYFPSLAFHKAAGGYGGIKV  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPF PPAG++++L GDWFKQNH+
+Sbjct  144   ASRSVIPVPFSPPAGDYTVLAGDWFKQNHT  173
+
+
+ Score = 67.0 bits (162),  Expect(3) = 5e-102, Method: Compositional matrix adjust.
+ Identities = 31/35 (89%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILD GHDLPFPDGLLINGRGSNG+TF VDQG
+Sbjct  174   DLKAILDNGHDLPFPDGLLINGRGSNGFTFNVDQG  208
+
+
+ Score = 226 bits (575),  Expect(2) = 1e-85, Method: Compositional matrix adjust.
+ Identities = 115/177 (65%), Positives = 129/177 (73%), Gaps = 28/177 (16%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIR+ NSAP++ GKQRYA+N VSFV  DTPLKLA
+Sbjct  323   RRNLTASGPRPNPQGSYHYGLINTTRTIRVVNSAPVVGGKQRYAVNGVSFVLPDTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+LGSI D P+G G  LQT+VMAADFR Y EV+FEN EDSVQS+H+DGHHFF
+Sbjct  383   DYFKISGVFSLGSIQDGPSG-GVNLQTAVMAADFRGYVEVVFENPEDSVQSWHVDGHHFF  441
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+ ASR  YNLRDTISR TVQV
+Sbjct  442   VVG---------------------------MDGGQWSEASRTGYNLRDTISRVTVQV  471
+
+
+ Score = 123 bits (308),  Expect(2) = 1e-85, Method: Compositional matrix adjust.
+ Identities = 53/62 (85%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP+N ++CG
+Sbjct  471   VYPKSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEAPIPNNVILCG  530
+
+Query  2904  RA  2909
+             RA
+Sbjct  531   RA  532
+
+
+ Score = 70.9 bits (172),  Expect = 9e-09, Method: Compositional matrix adjust.
+ Identities = 29/41 (71%), Positives = 34/41 (83%), Gaps = 0/41 (0%)
+ Frame = +2
+
+Query  326  PLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            P +  V++ L   FI+GEDPYRF+TWNVTYGDIYPLGVKQQ
+Sbjct  6    PFLVSVILLLLFQFINGEDPYRFFTWNVTYGDIYPLGVKQQ  46
+
+
+ Score = 70.5 bits (171),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 35/40 (88%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I  VTNDNLIINVFN+LD+ FL+SW
+Sbjct  44   KQQGILINGQFPGPQIDSVTNDNLIINVFNSLDEPFLLSW  83
+
+
+>XP_019448929.1 PREDICTED: L-ascorbate oxidase homolog [Lupinus angustifolius]
+ XP_019448930.1 PREDICTED: L-ascorbate oxidase homolog [Lupinus angustifolius]
+ OIW08435.1 hypothetical protein TanjilG_03111 [Lupinus angustifolius]
+Length=537
+
+ Score = 193 bits (490),  Expect(3) = 6e-101, Method: Compositional matrix adjust.
+ Identities = 95/116 (82%), Positives = 103/116 (89%), Gaps = 1/116 (1%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEGTH++QNTYDSLDIHLGQ+YSVL+TADQ
+Sbjct  209   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGTHSLQNTYDSLDIHLGQTYSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQVL ATS L YSNS G V G PP GPT +IDWS NQARSLR
+Sbjct  269   PPQDYYIVVSTRFTSQVLNATSILHYSNSAGGVPGSPPEGPT-QIDWSMNQARSLR  323
+
+
+ Score = 169 bits (429),  Expect(3) = 6e-101, Method: Compositional matrix adjust.
+ Identities = 75/90 (83%), Positives = 84/90 (93%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSLAFHKAAGG+G   I
+Sbjct  85    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGFQI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPP G+F+IL GDW+ +NH+
+Sbjct  145   ASRSVIPVPFPPPDGDFTILAGDWYNRNHT  174
+
+
+ Score = 58.5 bits (140),  Expect(3) = 6e-101, Method: Compositional matrix adjust.
+ Identities = 28/35 (80%), Positives = 30/35 (86%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGL+ING GSN  TF VDQG
+Sbjct  175   DLRAILDGGSDLPFPDGLIINGHGSNSNTFQVDQG  209
+
+
+ Score = 233 bits (594),  Expect(2) = 6e-89, Method: Compositional matrix adjust.
+ Identities = 118/178 (66%), Positives = 133/178 (75%), Gaps = 28/178 (16%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             R NL+ASGPRPNPQGSY YG+IN TRTIRL NSAP+I+GKQRYA+N VSF+ ADTPLKLA
+Sbjct  323   RENLTASGPRPNPQGSYRYGMINVTRTIRLQNSAPVIDGKQRYAVNGVSFITADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPT-GSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHF  2455
+             DHFNI GVF+LGSIPD+PT G G YLQTSVMAADFRAY EV+FEN ED++QS+HIDGH F
+Sbjct  383   DHFNIQGVFSLGSIPDNPTGGGGGYLQTSVMAADFRAYVEVVFENPEDTLQSWHIDGHVF  442
+
+Query  2456  FVVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             FVVG                           M  G+W+ ASR  YNLRDTI+RSTVQV
+Sbjct  443   FVVG---------------------------MDGGQWSDASRQNYNLRDTIARSTVQV  473
+
+
+ Score = 126 bits (317),  Expect(2) = 6e-89, Method: Compositional matrix adjust.
+ Identities = 57/64 (89%), Positives = 60/64 (94%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALYMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIPSNA +CG
+Sbjct  473   VYPKSWTALYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPSNAFLCG  532
+
+Query  2904  RASS  2915
+             RA S
+Sbjct  533   RAIS  536
+
+
+ Score = 69.3 bits (168),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 32/40 (80%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLII+VFN+LD+ FLISW
+Sbjct  45   KQQGILINGQFPGPLIESVTNDNLIISVFNSLDEPFLISW  84
+
+
+ Score = 58.2 bits (139),  Expect = 8e-05, Method: Compositional matrix adjust.
+ Identities = 25/25 (100%), Positives = 25/25 (100%), Gaps = 0/25 (0%)
+ Frame = +2
+
+Query  374  GEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            GEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  23   GEDPYRFYTWNVTYGDIYPLGVKQQ  47
+
+
+>XP_020964402.1 L-ascorbate oxidase homolog [Arachis ipaensis]
+Length=540
+
+ Score = 181 bits (458),  Expect(3) = 1e-100, Method: Compositional matrix adjust.
+ Identities = 88/116 (76%), Positives = 98/116 (84%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVG+ TS+NFRIQGHKM++VEVEG HT+QNTYDSLDIHLGQS SVL+TADQ
+Sbjct  209   GKTYRFRISNVGIGTSINFRIQGHKMLLVEVEGIHTLQNTYDSLDIHLGQSMSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI V++RFTSQVL ATS  RYSNS G+V GP   G T +IDWS  QARSLR
+Sbjct  269   PPQDYYIVVTSRFTSQVLNATSIFRYSNSAGTVAGPATIGLTTQIDWSLEQARSLR  324
+
+
+ Score = 171 bits (432),  Expect(3) = 1e-100, Method: Compositional matrix adjust.
+ Identities = 73/90 (81%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG NFTYVLQVKDQIGS++YFPSLAFHKAAGG+G   I
+Sbjct  85    NGVQQRRNSWQDGVYGTNCPIPPGSNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGFKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPF PPAG+F++L GDW+K+NH+
+Sbjct  145   NSRSVIPVPFDPPAGDFTVLAGDWYKRNHT  174
+
+
+ Score = 68.6 bits (166),  Expect(3) = 1e-100, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGL+INGRGSNGYTFTVDQG
+Sbjct  175   DLRAILDGGSDLPFPDGLIINGRGSNGYTFTVDQG  209
+
+
+ Score = 251 bits (640),  Expect(2) = 6e-93, Method: Compositional matrix adjust.
+ Identities = 124/177 (70%), Positives = 137/177 (77%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRTIRL NSAP+INGKQRYA+NSVSF+PADTPLKLA
+Sbjct  324   RRNLTASGPRPNPQGSYHYGLINTTRTIRLQNSAPVINGKQRYAVNSVSFIPADTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+LGSIPD+PTG G YLQTSVMAADFR Y EV+FEN ED+VQS+HIDGH+FF
+Sbjct  384   DYFKISGVFSLGSIPDNPTGGGGYLQTSVMAADFRGYVEVVFENPEDNVQSWHIDGHNFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+ ASRL YNLRDTISR TVQV
+Sbjct  444   VVG---------------------------MDGGQWSAASRLNYNLRDTISRCTVQV  473
+
+
+ Score = 122 bits (306),  Expect(2) = 6e-93, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 60/62 (97%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSW+A+Y+PLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIPSNAL+CG
+Sbjct  473   VYPKSWSAVYIPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPSNALLCG  532
+
+Query  2904  RA  2909
+             RA
+Sbjct  533   RA  534
+
+
+ Score = 69.3 bits (168),  Expect = 3e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLIINV+N+LD+ +LISW
+Sbjct  45   KQQGILINGQFPGPQIESVTNDNLIINVYNSLDEPYLISW  84
+
+
+ Score = 61.2 bits (147),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/45 (64%), Positives = 33/45 (73%), Gaps = 3/45 (7%)
+ Frame = +2
+
+Query  314  RSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            R W  L+ + ++   V    GEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  6    RVWCLLLVVQIL---VTCSIGEDPYRFYTWNVTYGDIYPLGVKQQ  47
+
+
+>XP_015936113.1 L-ascorbate oxidase homolog [Arachis duranensis]
+Length=540
+
+ Score = 181 bits (458),  Expect(3) = 1e-100, Method: Compositional matrix adjust.
+ Identities = 88/116 (76%), Positives = 98/116 (84%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVG+ TS+NFRIQGHKM++VEVEG HT+QNTYDSLDIHLGQS SVL+TADQ
+Sbjct  209   GKTYRFRISNVGIGTSINFRIQGHKMLLVEVEGIHTLQNTYDSLDIHLGQSMSVLVTADQ  268
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI V++RFTSQVL ATS  RYSNS G+V GP   G T +IDWS  QARSLR
+Sbjct  269   PPQDYYIVVTSRFTSQVLNATSIFRYSNSAGTVAGPATIGLTTQIDWSLEQARSLR  324
+
+
+ Score = 171 bits (432),  Expect(3) = 1e-100, Method: Compositional matrix adjust.
+ Identities = 73/90 (81%), Positives = 83/90 (92%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG NFTYVLQVKDQIGS++YFPSLAFHKAAGG+G   I
+Sbjct  85    NGVQQRRNSWQDGVYGTNCPIPPGSNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGFKI  144
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+              SRSVIPVPF PPAG+F++L GDW+K+NH+
+Sbjct  145   NSRSVIPVPFDPPAGDFTVLAGDWYKRNHT  174
+
+
+ Score = 68.6 bits (166),  Expect(3) = 1e-100, Method: Compositional matrix adjust.
+ Identities = 32/35 (91%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGL+INGRGSNGYTFTVDQG
+Sbjct  175   DLRAILDGGSDLPFPDGLIINGRGSNGYTFTVDQG  209
+
+
+ Score = 250 bits (638),  Expect(2) = 9e-93, Method: Compositional matrix adjust.
+ Identities = 123/177 (69%), Positives = 137/177 (77%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYG+INTTRTIRL NSAP+INGKQRYA+NSVSF+PADTPLKLA
+Sbjct  324   RRNLTASGPRPNPQGSYHYGMINTTRTIRLQNSAPVINGKQRYAVNSVSFIPADTPLKLA  383
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF+LGSIPD+PTG G YLQTSVMAADFR Y EV+FEN ED+VQS+HIDGH+FF
+Sbjct  384   DYFKISGVFSLGSIPDNPTGGGGYLQTSVMAADFRGYVEVVFENPEDNVQSWHIDGHNFF  443
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+ ASRL YNLRDTISR TVQV
+Sbjct  444   VVG---------------------------MDGGQWSAASRLNYNLRDTISRCTVQV  473
+
+
+ Score = 122 bits (307),  Expect(2) = 9e-93, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 60/62 (97%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSW+A+Y+PLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIPSNAL+CG
+Sbjct  473   VYPKSWSAVYIPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPSNALLCG  532
+
+Query  2904  RA  2909
+             RA
+Sbjct  533   RA  534
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QG+LINGQFPGP I+ VTNDNLIINV+N+LD+ FLISW
+Sbjct  45   KQQGVLINGQFPGPQIESVTNDNLIINVYNSLDEPFLISW  84
+
+
+ Score = 61.2 bits (147),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 29/45 (64%), Positives = 33/45 (73%), Gaps = 3/45 (7%)
+ Frame = +2
+
+Query  314  RSWLPLMAMVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            R W  L+ + ++   V    GEDPYRFYTWNVTYGDIYPLGVKQQ
+Sbjct  6    RVWCLLLVVQIL---VTCSIGEDPYRFYTWNVTYGDIYPLGVKQQ  47
+
+
+>XP_003540295.1 PREDICTED: L-ascorbate oxidase homolog [Glycine max]
+ KRH26769.1 hypothetical protein GLYMA_12G192800 [Glycine max]
+Length=536
+
+ Score = 181 bits (459),  Expect(3) = 2e-100, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEG HT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGIHTLQNTYDSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQVLTATS L YSNS  SV+ PPPGGPT +IDWS +QARSLR
+Sbjct  268   PPQDYYIVVSTRFTSQVLTATSILHYSNSPTSVSSPPPGGPTTQIDWSLDQARSLR  323
+
+
+ Score = 174 bits (440),  Expect(3) = 2e-100, Method: Compositional matrix adjust.
+ Identities = 77/90 (86%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSLAFHKAAGG+G   I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGFKI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDW+K+NH+
+Sbjct  144   ASRSVIPVPFPPPAGDFTILAGDWYKRNHT  173
+
+
+ Score = 65.1 bits (157),  Expect(3) = 2e-100, Method: Compositional matrix adjust.
+ Identities = 30/35 (86%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGL+INGRGSN Y FTVDQG
+Sbjct  174   DLRAILDGGSDLPFPDGLIINGRGSNAYAFTVDQG  208
+
+
+ Score = 243 bits (620),  Expect(2) = 8e-91, Method: Compositional matrix adjust.
+ Identities = 119/177 (67%), Positives = 135/177 (76%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRT+RL NSA IINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  323   RRNLTASGPRPNPQGSYHYGLINTTRTVRLQNSAGIINGKQRYAVNSVSFIPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F IPGVF LGSIP++PTGS  YLQTSVMAADFR Y E++FEN ED+VQS+H+DGHHF+
+Sbjct  383   DYFKIPGVFNLGSIPENPTGSDCYLQTSVMAADFRGYAEIVFENPEDTVQSWHVDGHHFY  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+ +SR  YNLRDTISR TVQV
+Sbjct  443   VVG---------------------------MDGGQWSTSSRSNYNLRDTISRCTVQV  472
+
+
+ Score = 123 bits (308),  Expect(2) = 8e-91, Method: Compositional matrix adjust.
+ Identities = 55/62 (89%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFYL VYSP NSWRDE PIPSNAL+CG
+Sbjct  472   VYPKSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYLGVYSPANSWRDEYPIPSNALLCG  531
+
+Query  2904  RA  2909
+             RA
+Sbjct  532   RA  533
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLI++VFN+LD+ FLISW
+Sbjct  44   KQQGILINGQFPGPQIESVTNDNLILHVFNSLDEPFLISW  83
+
+
+ Score = 57.0 bits (136),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 24/25 (96%), Positives = 25/25 (100%), Gaps = 0/25 (0%)
+ Frame = +2
+
+Query  374  GEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            GEDPYRFYTWNVTYGDIYPLG+KQQ
+Sbjct  22   GEDPYRFYTWNVTYGDIYPLGMKQQ  46
+
+
+>KHN44868.1 L-ascorbate oxidase like [Glycine soja]
+Length=490
+
+ Score = 181 bits (459),  Expect(3) = 2e-100, Method: Compositional matrix adjust.
+ Identities = 97/116 (84%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVGLTTS+NFRIQGHKM++VEVEG HT+QNTYDSLDIHLGQSYSVL+TADQ
+Sbjct  166   GKTYRFRISNVGLTTSINFRIQGHKMLLVEVEGIHTLQNTYDSLDIHLGQSYSVLVTADQ  225
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             P QDYYI VSTRFTSQVLTATS L YSNS  SV+ PPPGGPT +IDWS +QARSLR
+Sbjct  226   PPQDYYIVVSTRFTSQVLTATSILHYSNSPTSVSSPPPGGPTTQIDWSLDQARSLR  281
+
+
+ Score = 173 bits (439),  Expect(3) = 2e-100, Method: Compositional matrix adjust.
+ Identities = 77/90 (86%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGS++YFPSLAFHKAAGG+G   I
+Sbjct  42    NGVQQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGFKI  101
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             ASRSVIPVPFPPPAG+F+IL GDW+K+NH+
+Sbjct  102   ASRSVIPVPFPPPAGDFTILAGDWYKRNHT  131
+
+
+ Score = 65.1 bits (157),  Expect(3) = 2e-100, Method: Compositional matrix adjust.
+ Identities = 30/35 (86%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGL+INGRGSN Y FTVDQG
+Sbjct  132   DLRAILDGGSDLPFPDGLIINGRGSNAYAFTVDQG  166
+
+
+ Score = 229 bits (583),  Expect(2) = 3e-86, Method: Compositional matrix adjust.
+ Identities = 114/177 (64%), Positives = 131/177 (74%), Gaps = 31/177 (18%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTTRT+RL NSA IINGKQRYA+NSVSF+PADTPLKLA
+Sbjct  281   RRNLTASGPRPNPQGSYHYGLINTTRTVRLQNSAGIINGKQRYAVNSVSFIPADTPLKLA  340
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F IPGVF LGSIP++PTGS  YL    +AADFR Y E++FEN ED+VQS+H+DGHHF+
+Sbjct  341   DYFKIPGVFNLGSIPENPTGSDCYL----LAADFRGYAEIVFENPEDTVQSWHVDGHHFY  396
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+W+ +SR  YNLRDTISR TVQV
+Sbjct  397   VVG---------------------------MDGGQWSTSSRSNYNLRDTISRCTVQV  426
+
+
+ Score = 122 bits (306),  Expect(2) = 3e-86, Method: Compositional matrix adjust.
+ Identities = 54/62 (87%), Positives = 59/62 (95%), Gaps = 0/62 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTA+YMPLDNVGMWN+RS+NWARQYLGQQFY+ VYSP NSWRDE PIPSNAL+CG
+Sbjct  426   VYPKSWTAVYMPLDNVGMWNVRSENWARQYLGQQFYIGVYSPANSWRDEYPIPSNALLCG  485
+
+Query  2904  RA  2909
+             RA
+Sbjct  486   RA  487
+
+
+ Score = 69.7 bits (169),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 31/40 (78%), Positives = 36/40 (90%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGP I+ VTNDNLI++VFN+LD+ FLISW
+Sbjct  2    KQQGILINGQFPGPQIESVTNDNLILHVFNSLDEPFLISW  41
+
+
+>XP_002269614.1 PREDICTED: L-ascorbate oxidase homolog [Vitis vinifera]
+ CBI28811.3 unnamed protein product, partial [Vitis vinifera]
+Length=541
+
+ Score = 202 bits (514),  Expect(3) = 4e-100, Method: Compositional matrix adjust.
+ Identities = 96/116 (83%), Positives = 105/116 (91%), Gaps = 0/116 (0%)
+ Frame = +1
+
+Query  1582  GKIYRFRISNVGLTTSVNFRIQGHKMMVVEVEGTHTVQNTYDSLDIHLGQSYSVLLTADQ  1761
+             GK YRFRISNVG+ TS+NFRIQGHKM++VEVEGTH +QNTY SLDIHLGQSYSVL+TADQ
+Sbjct  208   GKTYRFRISNVGIATSLNFRIQGHKMLLVEVEGTHALQNTYSSLDIHLGQSYSVLVTADQ  267
+
+Query  1762  PAQDYYIAVSTRFTSQVLTATSTLRYSNSVGSVTGPPPGGPTIEIDWSFNQARSLR  1929
+             PAQDYYI VSTRFTSQVLT TSTL YSNS G V+GPPPGGPTI+ DWS NQARS+R
+Sbjct  268   PAQDYYIVVSTRFTSQVLTTTSTLHYSNSAGRVSGPPPGGPTIQTDWSLNQARSIR  323
+
+
+ Score = 147 bits (370),  Expect(3) = 4e-100, Method: Compositional matrix adjust.
+ Identities = 73/90 (81%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+ Frame = +2
+
+Query  1031  NGVEQRRNSWQDGVYGTNCPIPPGKNFTYVLQVKDQIGSFYYFPSLAFHKAAGGFGSINI  1210
+             NGV+QRRNSWQDGVYGTNCPIPPG+NFTYVLQVKDQIGS++YFPSLAFHKAAGG+G I I
+Sbjct  84    NGVQQRRNSWQDGVYGTNCPIPPGQNFTYVLQVKDQIGSYFYFPSLAFHKAAGGYGGIKI  143
+
+Query  1211  ASRSVIPVPFPPPAGEFSILTGDWFKQNHS  1300
+             +SR +IPVPFPPPAG+++IL GDW+K+NH+
+Sbjct  144   SSRPLIPVPFPPPAGDYTILAGDWYKKNHT  173
+
+
+ Score = 69.7 bits (169),  Expect(3) = 4e-100, Method: Compositional matrix adjust.
+ Identities = 33/35 (94%), Positives = 34/35 (97%), Gaps = 0/35 (0%)
+ Frame = +3
+
+Query  1386  DLQAILDGGHDLPFPDGLLINGRGSNGYTFTVDQG  1490
+             DL+AILDGG DLPFPDGLLINGRGSNGYTFTVDQG
+Sbjct  174   DLKAILDGGSDLPFPDGLLINGRGSNGYTFTVDQG  208
+
+
+ Score = 251 bits (642),  Expect(2) = 1e-94, Method: Compositional matrix adjust.
+ Identities = 123/177 (69%), Positives = 138/177 (78%), Gaps = 27/177 (15%)
+ Frame = +2
+
+Query  2099  RRNLSASGPRPNPQGSYHYGLINTTRTIRLANSAPIINGKQRYAINSVSFVPADTPLKLA  2278
+             RRNL+ASGPRPNPQGSYHYGLINTT TIRLANSAP+INGKQRYA+NSVSF+PADTPLKLA
+Sbjct  323   RRNLTASGPRPNPQGSYHYGLINTTHTIRLANSAPVINGKQRYAVNSVSFIPADTPLKLA  382
+
+Query  2279  DHFNIPGVFTLGSIPDSPTGSGAYLQTSVMAADFRAYTEVIFENLEDSVQSYHIDGHHFF  2458
+             D+F I GVF LGSIPD+PTG G YLQTSVMAADFR + EV+FEN ED++QS+HIDGH+FF
+Sbjct  383   DYFKISGVFNLGSIPDNPTGGGGYLQTSVMAADFRGFAEVVFENPEDTLQSWHIDGHNFF  442
+
+Query  2459  VVG*VSKVARH*P*KSQIEVNN*CQILYNRMGRGEWTPASRLTYNLRDTISRSTVQV  2629
+             VVG                           M  G+WTP+SRL+YNLRDTISR TVQV
+Sbjct  443   VVG---------------------------MDGGQWTPSSRLSYNLRDTISRCTVQV  472
+
+
+ Score = 127 bits (319),  Expect(2) = 1e-94, Method: Compositional matrix adjust.
+ Identities = 57/64 (89%), Positives = 60/64 (94%), Gaps = 0/64 (0%)
+ Frame = +3
+
+Query  2724  VYPKSWTALYMPLDNVGMWNIRSQNWARQYLGQQFYLRVYSPVNSWRDENPIPSNALVCG  2903
+             VYPKSWTALYMPLDNVGMWN+RS+NWARQYLGQQFYLRVYSP NSWRDE PIP NAL+CG
+Sbjct  472   VYPKSWTALYMPLDNVGMWNVRSENWARQYLGQQFYLRVYSPANSWRDEYPIPKNALLCG  531
+
+Query  2904  RASS  2915
+             RAS 
+Sbjct  532   RASG  535
+
+
+ Score = 70.9 bits (172),  Expect = 9e-09, Method: Compositional matrix adjust.
+ Identities = 30/40 (75%), Positives = 37/40 (93%), Gaps = 0/40 (0%)
+ Frame = +1
+
+Query  676  KWQGILINGQFPGPPIQCVTNDNLIINVFNNLDDSFLISW  795
+            K QGILINGQFPGPPI+ VTNDNLI++V+N+LD+ FL+SW
+Sbjct  44   KQQGILINGQFPGPPIESVTNDNLIVSVYNSLDEPFLLSW  83
+
+
+ Score = 64.7 bits (156),  Expect = 9e-07, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+ Frame = +2
+
+Query  338  MVMMFLHVNFIHGEDPYRFYTWNVTYGDIYPLGVKQQ  448
+            ++++F+ V  I GEDPYRF+TWNVTYGDIYPLGVKQQ
+Sbjct  10   VLLVFVSVTCISGEDPYRFFTWNVTYGDIYPLGVKQQ  46
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jun 7, 2018  1:17 PM
+  Number of letters in database: 56,894,383,939
+  Number of sequences in database:  155,303,703
+
+Lambda      K        H
+   0.318    0.134    0.401 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 155303703
+Number of Hits to DB: 14736407438
+Number of extensions: 326035318
+Number of successful extensions: 785244
+Number of sequences better than 10: 546
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 783604
+Number of HSP's successfully gapped: 1398
+Length of query: 2918
+Length of database: 56894383939
+Length adjustment: 166
+Effective length of query: 2752
+Effective length of database: 31113969241
+Effective search space: 25077859208246
+Effective search space used: 25077859208246
+T: 12
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 95 (41.2 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
