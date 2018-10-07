@@ -36,3 +36,7 @@ run -h -s [file]
 You can see example by typing (where "example_seq" is file name given with script):
 	run -s example_seq
 after copying files from "files/example" to "files/".
+
+
+IMORTANT!
+The web_blast file was downloaded from: https://blast.ncbi.nlm.nih.gov/Blast.cgi
